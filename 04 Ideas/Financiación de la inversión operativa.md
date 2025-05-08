@@ -3,7 +3,7 @@ Materia: Mercados e instituciones financieras
 Periodo: Ordinario
 aliases:
 ---
-Parent::[[Mercados e instituciones financieras]]
+Parent::[[Mercados e Instituciones Financieras]]
 
 La inversión operativa esta financiada por: 
 1. Pasivos sin costo (apalancamiento operativo)[^1]

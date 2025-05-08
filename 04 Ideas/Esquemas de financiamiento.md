@@ -3,7 +3,7 @@ Materia: Mercados e instituciones financieras
 Periodo: Ordinario
 ---
 
-parent::[[Mercados e instituciones financieras]]
+parent::[[Mercados e Instituciones Financieras]]
 Subtemas:: [[Bono|Bonos]], [[Factoraje]], [[Leasing]], [[Hipoteca]], [[Papel comercial]], [[Préstamos bancarios]], [[Acciones]], [[Utilidades retenidas]]
 # Deuda
 ---

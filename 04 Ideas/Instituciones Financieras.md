@@ -1,3 +1,3 @@
-Materia:: [[Mercados e instituciones financieras]]
+Materia:: [[Mercados e Instituciones Financieras]]
 
-- [ ] Elaborar esta nota [[Mercados e instituciones financieras]] #task ➕ 2025-02-25 
+- [ ] Elaborar esta nota [[Mercados e Instituciones Financieras]] #task ➕ 2025-02-25 

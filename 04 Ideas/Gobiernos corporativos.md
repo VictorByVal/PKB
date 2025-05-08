@@ -4,7 +4,7 @@ Periodo: Ordinario
 aliases:
   - Gobierno corporativo
 ---
-Parents::[[Mercados e instituciones financieras]]
+Parents::[[Mercados e Instituciones Financieras]]
 # Definición 
 Sistema bajo el cuál las sociedades son dirigidas y controladas (Concepto internacionalmente aceptado) 
 - Implica un conjunto de relaciones entre la administración de la sociedad, su consejo, sus accionistas y los terceros interesados (stakeholders) y provee la estructura para determinar los objetivos de la sociedad y monitorear su desempeño y cumplimiento. 

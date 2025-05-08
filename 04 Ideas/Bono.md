@@ -4,7 +4,7 @@ aliases:
   - Bonos
 ---
 
-Materia::[[Ingeniería Económica]], [[Mercados e instituciones financieras]]
+Materia::[[Ingeniería Económica]], [[Mercados e Instituciones Financieras]]
 Relacionado::[[Gráfica de los bonos]]
 
 Un bono es un instrumento de deuda que emite una empresa o administración pública para financiarse. 

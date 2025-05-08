@@ -2,7 +2,7 @@
 Materia: Mercados e instituciones financieras
 Periodo: Ordinario
 ---
-Parent::[[Mercados e instituciones financieras]]
+Parent::[[Mercados e Instituciones Financieras]]
 
 Los instrumentos de capital son títulos o contratos que representan la participación en el capital social de una compañía y confieren derechos de propiedad a su tenedor. 
 

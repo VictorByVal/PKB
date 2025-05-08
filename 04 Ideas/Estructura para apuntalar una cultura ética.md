@@ -2,7 +2,7 @@
 Materia: Mercados e instituciones financieras
 Periodo: Ordinario
 ---
-Parent::[[Mercados e instituciones financieras]]
+Parent::[[Mercados e Instituciones Financieras]]
 
 - Contratación: Esto se refiere a que haya políticas de contratación estrictas. 
 - Código de ética: Que se integre dentro de la empresa un código de ética sólido y que impulse a los miembros de la organización a comportarse de manera ética y profesional. 

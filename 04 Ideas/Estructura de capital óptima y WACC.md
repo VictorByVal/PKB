@@ -2,7 +2,7 @@
 Materia: Mercados e instituciones financieras
 Periodo: Ordinario
 ---
-parents::[[Mercados e instituciones financieras]]
+parents::[[Mercados e Instituciones Financieras]]
 
 Hay un límite a la cantidad de deuda que una empresa debe tener porque una cantidad excesiva de deuda aumenta los pagos de intereses la volatilidad de las ganancias y el riesgo de bancarrota 
 Este aumento en el riesgo financiero para los accionistas significa que requerirán un mayor rendimiento para compensarlos, lo que aumenta el WACC y reduce el valor de mercado de un negocio. 

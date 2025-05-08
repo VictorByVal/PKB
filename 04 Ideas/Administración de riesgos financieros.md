@@ -2,7 +2,7 @@
 Materia: Mercados e instituciones financieras
 Periodo: Parcial
 ---
-Parents::[[Mercados e instituciones financieras]]
+Parents::[[Mercados e Instituciones Financieras]]
 Childs::[[Tipos de riesgos financieros]]
 
 El futuro no puede predecirse. Es incierto. Nadie ha tenido éxito en pronosticar el mercado de capitales, de deuda, de tipos de cambio o de los precios de las mercancías de manera consistente; ni anticiparse a eventos de crédito, operacionales o sistémicos que hayan tenido grandes implicaciones financieras. 

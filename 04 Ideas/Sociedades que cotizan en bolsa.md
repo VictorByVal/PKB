@@ -3,7 +3,7 @@ Materia: Mercados e instituciones financieras
 Periodo: Ordinario
 aliases:
 ---
-Parent::[[Mercados e instituciones financieras]]
+Parent::[[Mercados e Instituciones Financieras]]
 
 - Política de inversión y financiamiento, así como de las premisas para la elaboración del presupuesto anual. 
 - Política para la designación y retribución del director general y demás directivos relevantes de la sociedad. 

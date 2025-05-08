@@ -2,7 +2,7 @@
 Materia: Mercados e instituciones financieras
 Periodo: Ordinario
 ---
-Subtema de::[[Mercados e instituciones financieras]]
+Subtema de::[[Mercados e Instituciones Financieras]]
 # Malversación de activos 
 Son fraudes donde el perpetrador roba o hace mal uso de los recursos de una organización. Algunos ejemplos son: 
 - Falseamientos de facturas. 

@@ -2,7 +2,7 @@
 Materia: Mercados e instituciones financieras
 Periodo: Ordinario
 ---
-Parent::[[Mercados e instituciones financieras]]
+Parent::[[Mercados e Instituciones Financieras]]
 Relacionado::[[El interés|Interés]], [[Crédito bancario]]
 
 Es un indicador que se expresa en forma de porcentaje, se utiliza para estimar cuánto costará un crédito, así como la rentabilidad que ofrecerán los ahorros o inversión. Esta tasa ofrece un balance entre el riesgo y la posible ganancia que trae consigo la utilización de un monto de dinero en una situación y tiempo específico. 

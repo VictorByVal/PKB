@@ -6,7 +6,7 @@ aliases:
   - Interés Compuesto
 Periodo: Parcial
 ---
-Materia::[[Mercados e instituciones financieras]],[[Ingeniería Económica]]
+Materia::[[Mercados e Instituciones Financieras]],[[Ingeniería Económica]]
 
 # Concepto 
 El interés es como se le conoce al valor del dinero con el paso del tiempo

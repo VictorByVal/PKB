@@ -2,7 +2,7 @@
 Materia: Mercados e instituciones financieras
 Periodo: Parcial
 ---
-Parent::[[Mercados e instituciones financieras]]
+Parent::[[Mercados e Instituciones Financieras]]
 
 
 # Tasks 

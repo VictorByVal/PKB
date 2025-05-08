@@ -1,4 +1,4 @@
-Materia:: [[Mercados e instituciones financieras]]
+Materia:: [[Mercados e Instituciones Financieras]]
 Relacionado:: [[Acciones]]
 
 >[!concepto]
