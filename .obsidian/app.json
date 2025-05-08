@@ -1,0 +1,24 @@
+{
+  "attachmentFolderPath": "Recursos",
+  "useMarkdownLinks": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "userIgnoreFilters": [
+    "09 Canciones/",
+    "00 Plantillas/"
+  ],
+  "newFileFolderPath": "04 Ideas",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "promptDelete": true,
+  "showUnsupportedFiles": true,
+  "vimMode": false,
+  "defaultViewMode": "preview",
+  "livePreview": false,
+  "showLineNumber": true
+}

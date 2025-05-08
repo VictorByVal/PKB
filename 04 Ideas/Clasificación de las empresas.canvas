@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"type":"file","file":"04 Ideas/Clasificación de las empresas según su filosofía y valores.md","id":"a3de5829f78da763","x":35,"y":-2760,"width":400,"height":400},
+		{"type":"file","file":"04 Ideas/Clasificación de las empresas según su tamaño.md","id":"a29fb2107a862344","x":580,"y":-2560,"width":440,"height":400},
+		{"type":"file","file":"04 Ideas/Clasificación de las empresas por su finalidad.md","id":"05b96a81f3c9204d","x":580,"y":-2030,"width":400,"height":400},
+		{"type":"file","file":"04 Ideas/Clasificación de las empresas por su régimen jurídico.md","id":"4fa96be2171e00bb","x":-520,"y":-2030,"width":400,"height":400},
+		{"type":"file","file":"04 Ideas/Clasificación de las empresas por su actividad económica.md","id":"4e2cdf1eef9aab74","x":-520,"y":-2560,"width":400,"height":400},
+		{"type":"file","file":"04 Ideas/Clasificación de las empresas por su tecnología.md","id":"61b4617b08be965f","x":110,"y":-1760,"width":400,"height":400},
+		{"type":"text","text":"# Clasificación de las empresas","id":"be608dd84af925bd","x":110,"y":-2180,"width":250,"height":150}
+	],
+	"edges":[
+		{"id":"6c9f0b02d8ca2a34","fromNode":"be608dd84af925bd","fromSide":"top","toNode":"a3de5829f78da763","toSide":"bottom"},
+		{"id":"f2b75e88a1f85d6f","fromNode":"be608dd84af925bd","fromSide":"top","toNode":"a29fb2107a862344","toSide":"bottom"},
+		{"id":"3add881f948003b8","fromNode":"be608dd84af925bd","fromSide":"top","toNode":"4e2cdf1eef9aab74","toSide":"bottom"},
+		{"id":"8b8b7471dc66bc74","fromNode":"be608dd84af925bd","fromSide":"bottom","toNode":"61b4617b08be965f","toSide":"top"},
+		{"id":"1aebee77d1bb2922","fromNode":"be608dd84af925bd","fromSide":"right","toNode":"05b96a81f3c9204d","toSide":"left"},
+		{"id":"5307fdcd6abdbace","fromNode":"be608dd84af925bd","fromSide":"left","toNode":"4fa96be2171e00bb","toSide":"right"}
+	]
+}

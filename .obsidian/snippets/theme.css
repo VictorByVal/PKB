@@ -1,0 +1,46 @@
+/* Negritas en vista de lectura y edición */
+.markdown-preview-view strong,
+.cm-s-obsidian span.cm-strong {
+    color: rgb(119, 216, 255); /* Color para negritas */
+}
+
+/* Itálicas en vista de lectura y edición */
+.markdown-preview-view em,
+.cm-s-obsidian span.cm-em {
+    color: rgb(241, 160, 231); /* Color para itálicas */
+}
+/* Heading 1 (#) */
+/*.markdown-preview-view h1,
+.cm-s-obsidian .cm-header-1 {
+    color: #FF0000; /* Rojo */
+/*}
+
+/* Heading 2 (##) */
+/*.markdown-preview-view h2,
+.cm-s-obsidian .cm-header-2 {
+    color: rgb(255, 255, 255); /* Verde */
+/*}
+
+/* Heading 3 (###) */
+/*.markdown-preview-view h3,
+.cm-s-obsidian .cm-header-3 {
+    color: rgb(255, 255, 255); /* Azul */
+/*}
+
+/* Heading 4 (####) */
+/*.markdown-preview-view h4,
+.cm-s-obsidian .cm-header-4 {
+    color: rgb(255, 255, 255); /* Magenta */
+/*}
+
+/* Heading 5 (#####) */
+/*.markdown-preview-view h5,
+.cm-s-obsidian .cm-header-5 {
+    color: rgb(255, 255, 255); /* Cian */
+/*}
+
+/* Heading 6 (######) */
+/*.markdown-preview-view h6,
+/*.cm-s-obsidian .cm-header-6 {
+    color: rgb(255, 255, 255); /* Amarillo */
+/*}

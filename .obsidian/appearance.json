@@ -1,0 +1,11 @@
+{
+  "cssTheme": "",
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "adaptive_images",
+    "image_zoom2",
+    "custom_bold_color",
+    "theme"
+  ],
+  "nativeMenus": false
+}

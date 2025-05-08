@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "9ec55aedec159bb8",
+    "type": "split",
+    "children": [
+      {
+        "id": "874daa9e7be64d62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fca0862a5576fd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Inbox/Magnitud del producto vectorial.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17e56523e7a2badd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Inbox/Operadores Hermitianos.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dac21cd29e80d23b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dd8b847e1155ccf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7f0d6aa0bfb564f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "522b3871dd223b5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Cosenos directores",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b5600a8ed4ab1e24",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "dfde68aaba6c36fe",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9657fbd71d7f2487",
+    "type": "split",
+    "children": [
+      {
+        "id": "157b2e7f1f5352e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb0dc35169946bb0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 Inbox/Magnitud del producto vectorial.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6cc143bd055cf6ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 Inbox/Magnitud del producto vectorial.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "089fac68ee9c6d14",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f1f0e9f6d2bb44ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 Inbox/Magnitud del producto vectorial.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "canvas:Create new canvas": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "522b3871dd223b5c",
+  "lastOpenFiles": [
+    "00 Inbox/Producto Interno.md",
+    "00 Inbox/Operaciones con vectores.md",
+    "00 Inbox/Magnitud del producto vectorial.md",
+    "00 Inbox/Espacio Dual.md",
+    "00 Inbox/Algebra Vectorial.md",
+    "00 Inbox/Desigualdad De Cauchy-Shcwarz.md",
+    "00 Inbox/Puntos en un plano tridimensionales.md",
+    "00 Inbox/Teorema.md",
+    "00 Inbox/Teorema de Reflexión.md",
+    "00 Inbox/Espacio Vectorial.md",
+    "00 Inbox/Vectores.md",
+    "Excalidraw/Práctica de Funciones de Probabilidad.md",
+    "00 Inbox/Funciones de probabilidad.md",
+    "02 Universidad/Tercer Semestre/Probabilidad y Estadística/Probabilidad.md",
+    "00 Inbox/Probabilidad y estadística.md",
+    "00 Inbox/Variables Aleatorias y Distribuciones de Probabilidad.md",
+    "00 Inbox/Untitled 1.md",
+    "Notas diarias/19-09-2024.md",
+    "Recursos/Pasted Image 20240919080748_162.png",
+    "00 Inbox/Financiamiento y planeación a corto plazo.md",
+    "Excalidraw/Financiamiento y planeación a corto plazo.md",
+    "Excalidraw/Financiamiento y planeación a corto plazo.png",
+    "00 Inbox/Métodos Numéricos Por Computadora.md",
+    "Plantillas/Nota Escolar - Universidad.md",
+    "00 Inbox/Método de Bisección.md",
+    "00 Inbox/Método de falsa posición.md",
+    "00 Inbox/Modelos Matemáticos.md",
+    "02 Universidad/Segundo Semestre/Mercados e Instituciones Financieras/Esquemas de financiamiento.md",
+    "Recursos/Pasted image 20240911191853.png",
+    "Recursos/Pasted image 20240831163526.png",
+    "Recursos/Recording 20240827124710.webm",
+    "Recursos/Recording 20240827122819.webm",
+    "Recursos/Cronica_de_Dos_Siglos_del_Segur_-_Antonio_Minzoni_Consorti_1720476098673_0.pdf",
+    "svg-cache",
+    "Recursos/Pasted image 20240806103120.png",
+    "Recursos/Pasted image 20240122173952.png",
+    "Recursos/Pasted image 20240123191507.png",
+    "Recursos/Pasted image 20240724124702.png",
+    "Recursos/Pasted image 20240724143113.png",
+    "Recursos/Pasted image 20240724143118.png",
+    "00 Inbox",
+    "02 Universidad/Tercer Semestre/Probabilidad y Estadística",
+    "02 Universidad/Tercer Semestre",
+    "02 Universidad/Primer Semestre/Persona y sentido de la vida",
+    "01 Universidad/Primer Semestre/Nueva carpeta",
+    "01 Bachillerato",
+    "01 Bachillerato/Desarrollo empresarial/Clasificación de las empresas.canvas",
+    "Untitled 1.canvas"
+  ]
+}

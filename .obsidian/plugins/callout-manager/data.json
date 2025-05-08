@@ -1,0 +1,105 @@
+{
+  "callouts": {
+    "custom": [
+      "temas",
+      "diario",
+      "concepto",
+      "relacionado",
+      "etimologia",
+      "teorema"
+    ],
+    "settings": {
+      "example": [
+        {
+          "changes": {
+            "icon": "lucide-zap"
+          }
+        }
+      ],
+      "temas": [
+        {
+          "changes": {
+            "icon": "lucide-list-ordered",
+            "color": "168, 130, 255"
+          }
+        }
+      ],
+      "diario": [
+        {
+          "changes": {
+            "icon": "lucide-calendar-days",
+            "color": "13, 201, 35"
+          }
+        }
+      ],
+      "concepto": [
+        {
+          "changes": {
+            "icon": "lucide-notebook-pen"
+          }
+        }
+      ],
+      "relacionado": [
+        {
+          "changes": {
+            "icon": "lucide-circuit-board",
+            "color": "255, 182, 56"
+          }
+        }
+      ],
+      "etimologia": [
+        {
+          "changes": {
+            "icon": "lucide-whole-word",
+            "color": "183, 171, 128"
+          }
+        }
+      ],
+      "attention": [
+        {
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "233, 151, 63"
+          }
+        }
+      ],
+      "teorema": [
+        {
+          "changes": {
+            "icon": "formula"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {}
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "220, 214, 30"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

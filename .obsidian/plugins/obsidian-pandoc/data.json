@@ -1,0 +1,15 @@
+{
+  "showCLICommands": true,
+  "addExtensionsToInternalLinks": "html",
+  "injectAppCSS": "light",
+  "injectThemeCSS": false,
+  "customCSSFile": null,
+  "displayYAMLFrontmatter": false,
+  "linkStrippingBehaviour": "text",
+  "highDPIDiagrams": true,
+  "pandoc": "\"C:\\Users\\victo\\AppData\\Local\\Pandoc\\pandoc.exe\"",
+  "pdflatex": "\"C:\\Users\\victo\\AppData\\Local\\Programs\\MiKTeX\\miktex\\bin\\x64\\pdflatex.exe\"",
+  "outputFolder": null,
+  "extraArguments": "",
+  "exportFrom": "html"
+}
