@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "064e17e1d5e096de",
+        "id": "0d2ad59b0974fb02",
         "type": "tabs",
         "children": [
           {
-            "id": "7a5b5a7f0fd26e23",
+            "id": "e96fd3f0cf675290",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09 Canciones/Yellow.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Yellow"
-            }
-          },
-          {
-            "id": "f09da3e2c7bb7e72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 Universidad/01 Primer Semestre/Teoría del seguro.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Teoría del seguro"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,8 +59,8 @@
             "state": {
               "type": "todo",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "checkmark",
+              "title": "Todo List"
             }
           },
           {
@@ -108,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:\"Seguros de ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -229,6 +190,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "8bd7078d0d126433",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
           }
         ],
         "currentTab": 4
@@ -243,7 +214,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 Universidad/01 Primer Semestre/Teoría del seguro.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -266,12 +236,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6147386076544861,
+                  "scale": 0.35801575904410105,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Teoría del seguro"
+              "title": "Graph view"
             }
           }
         ]
@@ -301,12 +271,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f09da3e2c7bb7e72",
+  "active": "7eb4b8979c4ce6b7",
   "lastOpenFiles": [
+    "Notas diarias/2024-07-24.md",
+    "Notas diarias/2024-01-23.md",
+    "04 Ideas/Seguros de Vida.md",
+    "04 Ideas/Seguros de Hogar.md",
+    "04 Ideas/Administración del seguro de vida grupo.md",
+    "04 Ideas/Antecedentes históricos del seguro.md",
+    "04 Ideas/Demografía.md",
+    "Hubs/Universidad.md",
+    "09 Canciones/Yellow.md",
+    "04 Ideas/Untitled.md",
+    "04 Ideas/Calistenia.md",
+    "02 Universidad/01 Primer Semestre/Teoría del seguro.md",
     "excalibrain.md",
     "04 Ideas/Actitudes ante el riesgo.md",
-    "02 Universidad/01 Primer Semestre/Teoría del seguro.md",
-    "09 Canciones/Yellow.md",
     "09 Canciones/Introducing Me.md",
     "04 Ideas/Binomio de Newton.md",
     "02 Universidad/01 Primer Semestre",
@@ -317,12 +297,10 @@
     "01 Bachillerato",
     "09 Canciones",
     "Notas diarias",
-    "04 Ideas/Antecedentes históricos del seguro.md",
     "04 Ideas/Antecedentes Históricos del.md",
     "04 Ideas/Elegir un sistema operativo.md",
     "04 Ideas/Pruebas de Hipótesis.md",
     "04 Ideas/Comandos Básicos de MySQL.md",
-    "04 Ideas/Demografía.md",
     "04 Ideas/La evolución de linux y los sistemas operativos populares.md",
     "04 Ideas/Plataformas de Hardware.md",
     "03 Areas/Linux.md",
@@ -330,15 +308,7 @@
     "04 Ideas/Teorema de Neyman - Pearson.md",
     "04 Ideas/MySQL.md",
     "Recursos/Libros/NOTAS.pdf",
-    "02 Universidad/04 Cuarto Semestre/Estadística Inferencial.md",
-    "04 Ideas/Modelo de crecimiento de Malthus.md",
     "Recursos/Libros/Statistical Inference - George Casella;Roger Berger;.pdf",
-    "04 Ideas/Embarcaciones Menores de Placer.md",
-    "04 Ideas/Restricción Presupuestaria del consumidor.md",
-    "04 Ideas/Seguros de Hogar.md",
-    "04 Ideas/Introducción a la Demografía.md",
-    "02 Universidad/04 Cuarto Semestre/Seguros de Vida.md",
-    "04 Ideas/Teoría de la producción.md",
     "Recursos/Imagen de las Operaciones de Seguros.png",
     "Recursos/Pasted image 20250301141033.png",
     "Recursos/IMG20250204111438.svg",
