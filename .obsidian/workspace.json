@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "5eb83455230b9bcc",
+        "id": "96955cc3d98ec086",
         "type": "tabs",
         "children": [
           {
-            "id": "13e11f6a1a762954",
+            "id": "cd54d02a2dc8ade8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04 Ideas/Formas de liquidación.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Formas de liquidación"
             }
           }
         ]
@@ -69,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: \"Mercados ",
+                "query": "file:\"Bases de datos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +119,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,26 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas diarias/2025-02-04.md",
+                "file": "02 Universidad/01 Primer Semestre/Teoría del seguro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-02-04"
-            }
-          },
-          {
-            "id": "b498b0de99ecac96",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Outgoing links from Teoría del seguro"
             }
           },
           {
@@ -191,17 +192,21 @@
             }
           },
           {
-            "id": "8bd7078d0d126433",
+            "id": "6fb8a3fcf0c0c12b",
             "type": "leaf",
             "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "checkmark",
-              "title": "Todo List"
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "4634a41b36787d5a",
@@ -213,6 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "04 Ideas/Formas de liquidación.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,7 +246,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Formas de liquidación"
             }
           }
         ]
@@ -267,33 +273,43 @@
       "chronology:Open Chronology": true,
       "callout-manager:Insert Callout": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "13e11f6a1a762954",
+  "active": "cd54d02a2dc8ade8",
   "lastOpenFiles": [
-    "Research/pages/Notas de la Plática%3A %22El actuario y su campo de acción en Seguros y Fianzas%22.md",
-    "Research/pages/Notas de la Plática %22Estado Actual de las Pensiones del IMSS.md",
-    "Research/pages/Música y Danza Como Escenarios de Memoria Colectiva en México.md",
-    "Research/pages/Mercados e Instituciones Financieras.md",
-    "Research/pages/Lista de cosas por comprar.md",
-    "Research/pages/Entrenamiento de intervalos de Alta Densidad.md",
-    "Research/pages/Ensayo Sobre la Pelicula Too Big To Fall (Demasíado Grande Para Caer.md",
-    "Research/pages/Disciplinas Físicas.md",
-    "Research/pages/Contratos Internacionales de compraventa.md",
-    "Research/pages/contents.md",
-    "Research/pages/card.md",
-    "Research/pages/Bases de datos.md",
-    "Research/pages/Análisis de dos obras de Arte.md",
+    "04 Ideas/Beneficiarios.md",
+    "04 Ideas/Coberturas adicionales.md",
+    "04 Ideas/Fórmulas para el cálculo de la prima.md",
+    "Recursos/Libros/Calculo de varias variables Tr - Desconocido 202.pdf",
+    "Recursos/Libros/Bases de datos - Catherine M. Ricardo.pdf",
+    "02 Universidad/04 Cuarto Semestre/Estadística Inferencial.md",
+    "04 Ideas/Teorema de Cambio de Variable.md",
+    "04 Ideas/Ramo de Automóvil.md",
+    "04 Ideas/Antecedentes y definición de la ecología.md",
+    "04 Ideas/Antecedentes históricos del seguro.md",
+    "04 Ideas/Administradores de Bases de Datos.md",
+    "04 Ideas/Administración del seguro de vida grupo.md",
+    "04 Ideas/Administración del PKB.md",
+    "04 Ideas/Administración de riesgos financieros.md",
+    "04 Ideas/Acontecimientos importantes en la Vida de San José de Calasanz.md",
+    "04 Ideas/Acontecimientos importantes en la Vida de San José.md",
+    "Proyectos/Study System.md",
+    "Proyectos/Proyecto Health Tracker.md",
+    "Proyectos/Notas para la exposición (Incendio de las torres gemelas).md",
+    "Proyectos/Home Server.md",
+    "02 Universidad/01 Primer Semestre/Teoría del seguro.md",
+    "04 Ideas/Untitled.md",
+    "04 Ideas/Sociedades que cotizan en bolsa.md",
+    "04 Ideas/Sistemas Manejadores de Bases de Datos.md",
+    "04 Ideas/Tasa de interés.md",
+    "04 Ideas/Teorema de Neyman - Pearson.md",
+    "04 Ideas/Teorema de Rao-Blackwell.md",
+    "02 Universidad/04 Cuarto Semestre/Microeconomía.md",
     "Research/logseq/srs-of-matrix.edn",
     "Research/logseq/config.edn",
     "Research/logseq/bak",
-    "Research/journals/2024_10_08.md",
-    "Research/journals/2024_11_06.md",
-    "Research/journals/2024_10_05.md",
-    "Research/journals/2024_08_28.md",
-    "Research/journals/2024_08_29.md",
-    "Research/journals/2024_08_20.md",
     "Research/assets/image_1706572144937_0.png",
     "Research/assets/image_1706571915406_0.png",
     "Research/assets/Cronica_de_Dos_Siglos_del_Segur_-_Antonio_Minzoni_Consorti_1720476098673_0.pdf",
@@ -301,15 +317,6 @@
     "Research/assets/ACTEX_EXAM_P_SECCION_1_(Part_I)_1720304166483_0.pdf",
     "Research/assets/ACTEX_EXAM_P_SECCION_1_(Part_I)_1720304166483_0.edn",
     "Research/pages",
-    "Research/logseq",
-    "Research/journals",
-    "Personal Growth/pages/¿Porque empezar un blog en 2024%3F.md",
-    "Personal Growth/pages/Proyectos___Conformación de sistema de estudio.md",
-    "Personal Growth/pages/Proyectos___Aprender Open Office Org. Basic.md",
-    "Personal Growth/pages/Proyectos.md",
-    "Personal Growth/pages/Proyecto%3A Banda Musical.md",
-    "Personal Growth/pages/Proyecto Home-Server.md",
-    "Personal Growth/pages/Productos para limpiar la guitarra.md",
     "Knowledge Base/Plug-ins/Mapas/Mapa de la civilización Griega.png",
     "Knowledge Base/Temas/Clasificación de las empresas.canvas",
     "Knowledge Base/Recursos/Pasted Image 20240919080748_162.png",
