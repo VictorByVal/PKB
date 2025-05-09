@@ -9,17 +9,17 @@ Grado:
 >[!temas]+ 
 >```dataview
 >list 
->where contains(materia, )
+>where contains(materia, [[Bases de Datos]])
 >```
 
 >[!diario]- Notas diarias
 >```list
 >from "Notas diarias"
->where contains(relacionado, )
+>where contains(relacionado, [[Bases de Datos]])
 >```
 
 >[!done]+ Tareas
 >```tasks
 >not done 
->description includes 
+>description includes [[Bases de Datos]]
 >```

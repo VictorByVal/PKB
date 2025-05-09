@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "96955cc3d98ec086",
+        "id": "78d66a0466661122",
         "type": "tabs",
         "children": [
           {
-            "id": "cd54d02a2dc8ade8",
+            "id": "46686d6532cb3758",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Universidad/04 Cuarto Semestre/Estadística Inferencial.md",
-                "mode": "preview",
+                "file": "04 Ideas/Git.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Estadística Inferencial"
+              "title": "Git"
             }
           },
           {
-            "id": "eeda93ba6c316918",
+            "id": "2f5fc274752091c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Ideas/Configuraciones básicas de Git.md",
+                "file": "04 Ideas/Sistemas Controladores de Versiones.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Configuraciones básicas de Git"
+              "title": "Sistemas Controladores de Versiones"
+            }
+          },
+          {
+            "id": "bd0f77442844fc77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Ideas/Desarrollo Empresarial.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Desarrollo Empresarial"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,8 +168,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -243,7 +266,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 Ideas/Configuraciones básicas de Git.md",
+                "file": "04 Ideas/Desarrollo Empresarial.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -271,7 +294,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Configuraciones básicas de Git"
+              "title": "Graph of Desarrollo Empresarial"
             }
           }
         ]
@@ -302,13 +325,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eeda93ba6c316918",
+  "active": "bd0f77442844fc77",
   "lastOpenFiles": [
+    "04 Ideas/Desarrollo Empresarial.md",
+    "04 Ideas/Sistemas Controladores de Versiones.md",
     "04 Ideas/Git.md",
     "04 Ideas/Configuraciones básicas de Git.md",
+    "04 Ideas/Niveles de Configuración en Git.md",
+    "00 Plantillas/Area.md",
+    "04 Ideas/Antecedentes históricos de las bases de datos.md",
+    "02 Universidad/04 Cuarto Semestre/Bases de Datos.md",
+    "04 Ideas/Administradores de Bases de Datos.md",
+    "04 Ideas/DAX.md",
     "02 Universidad/04 Cuarto Semestre/Estadística Inferencial.md",
     "04 Ideas/Estimación Puntual.md",
-    "00 Plantillas/Area.md",
     "00 Plantillas/Knowledge Note.md",
     "00 Plantillas/Materia.md",
     "04 Ideas/Estadística Suficiente.md",
@@ -324,14 +354,7 @@
     "04 Ideas/Ramo de Automóvil.md",
     "04 Ideas/Antecedentes y definición de la ecología.md",
     "04 Ideas/Antecedentes históricos del seguro.md",
-    "04 Ideas/Administradores de Bases de Datos.md",
     "04 Ideas/Administración del seguro de vida grupo.md",
-    "04 Ideas/Administración del PKB.md",
-    "04 Ideas/Administración de riesgos financieros.md",
-    "04 Ideas/Acontecimientos importantes en la Vida de San José de Calasanz.md",
-    "04 Ideas/Acontecimientos importantes en la Vida de San José.md",
-    "Proyectos/Study System.md",
-    "Proyectos/Proyecto Health Tracker.md",
     "Research/logseq/srs-of-matrix.edn",
     "Research/logseq/config.edn",
     "Research/logseq/bak",
