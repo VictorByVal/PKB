@@ -1,8 +1,7 @@
-```ad-summary
-title: Definición
-Disciplina que intenta mediante herramientas y métodos de reflexión específicos, darle respuesta a las preguntas que llamamos fundamentales
-```
-[^Note]: Las preguntas fundamentales son aquellas que han sido planteadas por los seres humanos prácticamente en todas las épocas y en todas las culturas, siendo respondidas bajo creencias diferentes y formas distintas de vivir
+> [!concepto]
+> Disciplina que intenta mediante herramientas y métodos de reflexión específicos, darle respuesta a las preguntas que llamamos fundamentales
+
+Las preguntas fundamentales son aquellas que han sido planteadas por los seres humanos prácticamente en todas las épocas y en todas las culturas, siendo respondidas bajo creencias diferentes y formas distintas de vivir
 # Etimología
 Según su etimología, "Filosofía" significa: *Amor a la sabiduría* viene del griego *Filos* (amor) y *Sophia* (sabiduría)
 # Origen

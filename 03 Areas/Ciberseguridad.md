@@ -1,8 +1,5 @@
-
-```ad-abstract
-title: Concepto 
-Conjunto de practicas, tecnologías, y procesos diseñados para proteger sistemas, redes, dispositivos y datos contra accesos no autorizados, ataques, daños o robos.
-```
+> [!concepto]
+> Conjunto de practicas, tecnologías, y procesos diseñados para proteger sistemas, redes, dispositivos y datos contra accesos no autorizados, ataques, daños o robos.
 
 # Objetivo
 Su objetivo principal es garantizar la confidencialidad, integridad y disponibilidad de la información en el entorno digital. 

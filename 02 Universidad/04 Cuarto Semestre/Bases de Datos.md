@@ -1,7 +1,7 @@
 ---
 Docente: M.R Eric Onofre Ruiz
-Nivel educativo: 
-Grado:
+Nivel educativo: "[[Universidad]]"
+Grado: Cuarto Semestre
 ---
 
 

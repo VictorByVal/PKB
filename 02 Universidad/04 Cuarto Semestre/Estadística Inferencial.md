@@ -1,7 +1,7 @@
 ---
-Docente: 
-Nivel educativo: 
-Grado:
+Docente: Act. Sebastían Velázquez Valderrama
+Nivel educativo: "[[Universidad]]"
+Grado: Cuarto Semestre
 ---
 
 
@@ -15,11 +15,11 @@ Grado:
 >[!diario]- Notas diarias
 >```list
 >from "Notas diarias"
->where contains(relacionado, )
+>where contains(relacionado, [[Estadística Inferencial]])
 >```
 
 >[!done]+ Tareas
 >```tasks
 >not done 
->description includes 
+>description includes [[Estadística Inferencial]]
 >```
