@@ -1,5 +1,5 @@
 ---
-Docente: Gretel Astrild Ortiz Ameijeira
+Docente: Act. Gretel Astrild Ortiz Ameijeira
 Nivel educativo: "[[Universidad]]"
 Grado: Cuarto Semestre
 ---
