@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "04 Ideas/Git.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -30,57 +30,8 @@
               "icon": "lucide-file",
               "title": "Git"
             }
-          },
-          {
-            "id": "2f5fc274752091c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Ideas/Sistemas Controladores de Versiones.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sistemas Controladores de Versiones"
-            }
-          },
-          {
-            "id": "bd0f77442844fc77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Ideas/Desarrollo Empresarial.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Desarrollo Empresarial"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +119,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -266,7 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 Ideas/Desarrollo Empresarial.md",
+                "file": "04 Ideas/Git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,7 +246,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Desarrollo Empresarial"
+              "title": "Graph of Git"
             }
           }
         ]
@@ -325,14 +277,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bd0f77442844fc77",
+  "active": "46686d6532cb3758",
   "lastOpenFiles": [
-    "04 Ideas/Desarrollo Empresarial.md",
     "04 Ideas/Sistemas Controladores de Versiones.md",
-    "04 Ideas/Git.md",
     "04 Ideas/Configuraciones básicas de Git.md",
-    "04 Ideas/Niveles de Configuración en Git.md",
     "00 Plantillas/Area.md",
+    "Hubs/Bachillerato.md",
+    "Hubs/Universidad.md",
+    "01 Bachillerato/Filosofía.md",
+    "01 Bachillerato/Contabilidad.md",
+    "04 Ideas/Desarrollo Empresarial.md",
+    "04 Ideas/Git.md",
+    "04 Ideas/Niveles de Configuración en Git.md",
     "04 Ideas/Antecedentes históricos de las bases de datos.md",
     "02 Universidad/04 Cuarto Semestre/Bases de Datos.md",
     "04 Ideas/Administradores de Bases de Datos.md",
@@ -351,10 +307,6 @@
     "Recursos/Libros/Calculo de varias variables Tr - Desconocido 202.pdf",
     "Recursos/Libros/Bases de datos - Catherine M. Ricardo.pdf",
     "04 Ideas/Teorema de Cambio de Variable.md",
-    "04 Ideas/Ramo de Automóvil.md",
-    "04 Ideas/Antecedentes y definición de la ecología.md",
-    "04 Ideas/Antecedentes históricos del seguro.md",
-    "04 Ideas/Administración del seguro de vida grupo.md",
     "Research/logseq/srs-of-matrix.edn",
     "Research/logseq/config.edn",
     "Research/logseq/bak",
