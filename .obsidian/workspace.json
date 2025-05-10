@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Ideas/Intervalos de Confianza.md",
+                "file": "04 Ideas/Bono.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Intervalos de Confianza"
+              "title": "Bono"
             }
           }
         ]
@@ -219,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 Ideas/Intervalos de Confianza.md",
+                "file": "04 Ideas/Bono.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,7 +247,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Intervalos de Confianza"
+              "title": "Graph of Bono"
             }
           }
         ]
@@ -277,8 +277,15 @@
   },
   "active": "6848b60887a34802",
   "lastOpenFiles": [
-    "04 Ideas/Instrumentos de capital.md",
+    "svg-cache",
     "04 Ideas/Instituciones Financieras.md",
+    "04 Ideas/Mercados e Instituciones Financieras.md",
+    "excalibrain.md",
+    "04 Ideas/Mercados Financieros.md",
+    "04 Ideas/Tipos de fraude financiero.md",
+    "04 Ideas/Mercados de deuda.md",
+    "04 Ideas/Intervalos de Confianza.md",
+    "04 Ideas/Instrumentos de capital.md",
     "04 Ideas/Funciones cuadráticas.md",
     "04 Ideas/Gráfica de los bonos.md",
     "04 Ideas/Funciones lineales.md",
@@ -296,13 +303,6 @@
     "04 Ideas/Disposiciones de la Ley de Instituciones de Seguros y de Fianzas.md",
     "04 Ideas/Diferencia entre autoridad y poder.md",
     "04 Ideas/Designación de beneficiarios.md",
-    "04 Ideas/Desactivación del botón (X-close).md",
-    "04 Ideas/Demografía.md",
-    "04 Ideas/Cuadro comparativo  Modernidad, Posmodernidad e Hi.md",
-    "04 Ideas/Configuraciones básicas de Git.md",
-    "04 Ideas/Colaboradores de los proyectos Wikimedia.md",
-    "04 Ideas/Clasificación del riesgo.md",
-    "04 Ideas/Clasificación de las empresas por su régimen jurídico.md",
     "04 Ideas/Clasificación de las empresas.canvas",
     "Recursos/Libros/Economia. Con aplicaciones a La - Paul A. Samuelson.pdf",
     "Recursos/Libros/Cronica de Dos Siglos del Segur - Antonio Minzoni Consorti.pdf",

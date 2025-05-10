@@ -203,10 +203,6 @@
     "Tema": {}
   },
   "navigationHistory": [
-    "01 Bachillerato/Filosofía/Estoicismo.md",
-    "01 Bachillerato/Filosofía/Filosofía.md",
-    "00 Inbox/TCP.md",
-    "00 Inbox/Protocolos de Comunicación Computacional.md",
     "Excalidraw/Costo de Capital.excalidraw.md",
     "00 Inbox/Costo de Capital.md",
     "00 Inbox/Finanzas Corporativas.md",
@@ -252,7 +248,11 @@
     "04 Ideas/Normalización de una Base de Datos.md",
     "04 Ideas/Reglas de la Normalización de una Base de Datos.md",
     "04 Ideas/Actitudes ante el riesgo.md",
-    "02 Universidad/01 Primer Semestre/Teoría del seguro.md"
+    "02 Universidad/01 Primer Semestre/Teoría del seguro.md",
+    "04 Ideas/Mercados de deuda.md",
+    "04 Ideas/Tipos de fraude financiero.md",
+    "04 Ideas/Mercados Financieros.md",
+    "04 Ideas/Mercados e Instituciones Financieras.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
