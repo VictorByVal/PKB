@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b4c1007a8658bea5",
+        "id": "ab3855fb285a6a02",
         "type": "tabs",
         "children": [
           {
-            "id": "33f215a908d131fb",
+            "id": "7146214202de2750",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Universidad/04 Cuarto Semestre/Estadística Inferencial.md",
+                "file": "00 Plantillas/Knowledge Note.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Estadística Inferencial"
-            }
-          },
-          {
-            "id": "75f967f512669e2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hubs/Universidad.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Universidad"
+              "title": "Knowledge Note"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hubs/Universidad.md",
+                "file": "00 Plantillas/Knowledge Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Universidad"
+              "title": "Outline of Knowledge Note"
             }
           },
           {
@@ -179,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hubs/Universidad.md",
+                "file": "00 Plantillas/Knowledge Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Universidad"
+              "title": "Backlinks for Knowledge Note"
             }
           },
           {
@@ -198,12 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hubs/Universidad.md",
+                "file": "00 Plantillas/Knowledge Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Universidad"
+              "title": "Outgoing links from Knowledge Note"
             }
           },
           {
@@ -229,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Hubs/Universidad.md",
+                "file": "00 Plantillas/Knowledge Note.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,7 +232,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Universidad"
+              "title": "Graph of Knowledge Note"
             }
           }
         ]
@@ -288,36 +263,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "75f967f512669e2b",
+  "active": "7146214202de2750",
   "lastOpenFiles": [
-    "02 Universidad/04 Cuarto Semestre/Estadística Inferencial.md",
-    "Hubs/Universidad.md",
-    "04 Ideas/Cálculo de Varias Variables.md",
-    "02 Universidad/04 Cuarto Semestre/Microeconomía.md",
-    "04 Ideas/Demografía.md",
-    "02 Universidad/04 Cuarto Semestre/Seguros de Vida.md",
-    "02 Universidad/04 Cuarto Semestre/Bases de Datos.md",
-    "03 Areas/Ciberseguridad.md",
-    "01 Bachillerato/Filosofía.md",
-    "04 Ideas/Origen del narcotráfico en México.md",
-    "03 Areas/Historia.md",
-    "03 Areas/Linux.md",
-    "04 Ideas/Git.md",
-    "04 Ideas/Sistemas Controladores de Versiones.md",
-    "04 Ideas/Desarrollo Empresarial.md",
-    "04 Ideas/Configuraciones básicas de Git.md",
-    "04 Ideas/Niveles de Configuración en Git.md",
     "00 Plantillas/Area.md",
-    "04 Ideas/Antecedentes históricos de las bases de datos.md",
-    "04 Ideas/Administradores de Bases de Datos.md",
-    "04 Ideas/DAX.md",
-    "04 Ideas/Estimación Puntual.md",
-    "00 Plantillas/Knowledge Note.md",
-    "00 Plantillas/Materia.md",
-    "04 Ideas/Estadística Suficiente.md",
-    "04 Ideas/Intervalos de Confianza.md",
+    "Notas diarias/2023-08-01.md",
+    "Notas diarias/2025-01-20.md",
+    "Notas diarias/2025-01-25.md",
+    "Notas diarias/2025-02-01.md",
+    "Notas diarias/2025-02-10.md",
+    "Notas diarias/2025-02-20.md",
+    "Notas diarias/2025-03-04.md",
+    "Notas diarias/2025-04-04.md",
+    "Notas diarias/2025-03-14.md",
+    "Notas diarias/2025-03-03.md",
+    "Notas diarias/2024-09-19.md",
+    "Proyectos/Study System.md",
+    "Recursos/Libros/Economia. Con aplicaciones a La - Paul A. Samuelson.pdf",
+    "Recursos/Libros/Cronica de Dos Siglos del Segur - Antonio Minzoni Consorti.pdf",
+    "Recursos/Libros/Calculo de varias variables, 4t - Dennis G. Zill.pdf",
     "Recursos/Libros/Calculo de varias variables Tr - Desconocido 202.pdf",
     "Recursos/Libros/Bases de datos - Catherine M. Ricardo.pdf",
+    "03 Areas/Historia.md",
+    "03 Areas/DAX.md",
+    "02 Universidad/04 Cuarto Semestre/Estadística Inferencial.md",
+    "03 Areas/Python.md",
+    "04 Ideas/Clasificación de las Bases de Datos.md",
+    "04 Ideas/Cardinalidades de Mapeo.md",
+    "04 Ideas/Características de Python.md",
+    "04 Ideas/Capital Mínimo de las Instituciones de Seguros.md",
+    "04 Ideas/Calistenia.md",
+    "03 Areas/Git.md",
+    "03 Areas/Ciberseguridad.md",
+    "03 Areas/Economía.md",
+    "03 Areas/Geometría Analítica.md",
     "Research/logseq/srs-of-matrix.edn",
     "Research/logseq/config.edn",
     "Research/logseq/bak",
@@ -325,9 +303,6 @@
     "Research/assets/image_1706571915406_0.png",
     "Research/assets/Cronica_de_Dos_Siglos_del_Segur_-_Antonio_Minzoni_Consorti_1720476098673_0.pdf",
     "Research/assets/Cronica_de_Dos_Siglos_del_Segur_-_Antonio_Minzoni_Consorti_1720476098673_0.edn",
-    "Research/assets/ACTEX_EXAM_P_SECCION_1_(Part_I)_1720304166483_0.pdf",
-    "Research/assets/ACTEX_EXAM_P_SECCION_1_(Part_I)_1720304166483_0.edn",
-    "Research/pages",
     "Knowledge Base/Plug-ins/Mapas/Mapa de la civilización Griega.png",
     "Knowledge Base/Temas/Clasificación de las empresas.canvas",
     "Knowledge Base/Recursos/Pasted Image 20240919080748_162.png",
