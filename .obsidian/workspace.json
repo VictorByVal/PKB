@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8e43d52a8be1604e",
+        "id": "8b564e318e6e9d13",
         "type": "tabs",
         "children": [
           {
-            "id": "38f62e695dfb4140",
+            "id": "c9b05718697cdc5c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -109,8 +105,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,36 +159,21 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 Ideas/Teoría de Conjuntos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Teoría de Conjuntos"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "7eb4b8979c4ce6b7",
+            "id": "8cc561313912ec5d",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "1e0bea16193003cc",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
             }
           }
         ],
@@ -267,8 +247,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38f62e695dfb4140",
+  "active": "c9b05718697cdc5c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "04 Ideas/Teoría de Conjuntos.md",
     "04 Ideas/Mercados e Instituciones Financieras.md",
     "04 Ideas/Ciencia de Datos.md",
@@ -299,7 +280,6 @@
     "04 Ideas/Clasificación de las Bases de Datos.md",
     "04 Ideas/Cardinalidades de Mapeo.md",
     "04 Ideas/Características de Python.md",
-    "04 Ideas/Capital Mínimo de las Instituciones de Seguros.md",
     "Research/logseq/srs-of-matrix.edn",
     "Research/logseq/config.edn",
     "Research/logseq/bak",
