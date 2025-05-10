@@ -11,10 +11,24 @@
             "id": "0206888f287a7e80",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04 Ideas/Ciencia de Datos.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ciencia de Datos"
             }
           }
         ]
@@ -105,7 +119,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,6 +218,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "04 Ideas/Ciencia de Datos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,7 +246,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Ciencia de Datos"
             }
           }
         ]
@@ -258,8 +274,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8cc561313912ec5d",
+  "active": "0206888f287a7e80",
   "lastOpenFiles": [
+    "04 Ideas/Ciencia de Datos.md",
     "04 Ideas/Hipoteca.md",
     "04 Ideas/Valores o títulos respaldados por Hipotecas.md",
     "Proyectos/Study System.md",
@@ -286,7 +303,6 @@
     "04 Ideas/Estructura para apuntalar una cultura ética.md",
     "04 Ideas/Ética empresarial y la importancia de los valores.md",
     "04 Ideas/Figuras que intervienen en la Operación de Seguros.md",
-    "04 Ideas/Exclusiones.md",
     "04 Ideas/Clasificación de las empresas.canvas",
     "Recursos/Libros/Economia. Con aplicaciones a La - Paul A. Samuelson.pdf",
     "Recursos/Libros/Cronica de Dos Siglos del Segur - Antonio Minzoni Consorti.pdf",
