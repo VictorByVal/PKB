@@ -46,9 +46,8 @@ Donde:
 - El interés simple solamente es empleado en inversiones a corto plazo (usualmente inferiores a un año)
 - El interés compuesto es comúnmente usado para inversiones multianuales
 - Jamás se hacen operaciones con la tasa nominal 
-![[Pasted image 20240122172752.png]]
+
 Esta es la relación entre la tasa efectiva anual y tasa nominal convertible m - veces al año 
-![[Pasted image 20240122173835.png]]
-![[Pasted image 20240122173952.png]]
+
 - Esto corresponde a notación actuarial y el super índice indica el número de periodos de capitalización 
 

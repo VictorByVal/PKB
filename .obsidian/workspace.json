@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d8e63e6d78da2d55",
+        "id": "454ace1f8a7a03dd",
         "type": "tabs",
         "children": [
           {
-            "id": "726b4c3f9e7225fd",
+            "id": "6848b60887a34802",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Ideas/Teoría de Conjuntos.md",
+                "file": "04 Ideas/Intervalos de Confianza.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Teoría de Conjuntos"
+              "title": "Intervalos de Confianza"
             }
           }
         ]
@@ -119,7 +119,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,6 +191,20 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "360e14ca39fe79b0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ],
         "currentTab": 3
@@ -204,7 +219,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 Ideas/Teoría de Conjuntos.md",
+                "file": "04 Ideas/Intervalos de Confianza.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +247,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Teoría de Conjuntos"
+              "title": "Graph of Intervalos de Confianza"
             }
           }
         ]
@@ -256,46 +271,44 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "chronology:Open Chronology": false,
       "callout-manager:Insert Callout": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
       "quiz-generator:Open generator": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "726b4c3f9e7225fd",
+  "active": "6848b60887a34802",
   "lastOpenFiles": [
-    "02 Universidad/01 Primer Semestre/Matemáticas discretas.md",
-    "04 Ideas/Teoría de Conjuntos.md",
-    "conflict-files-obsidian-git.md",
-    "04 Ideas/Mercados e Instituciones Financieras.md",
-    "04 Ideas/Ciencia de Datos.md",
+    "04 Ideas/Instrumentos de capital.md",
     "04 Ideas/Instituciones Financieras.md",
-    "00 Plantillas/Knowledge Note.md",
-    "00 Plantillas/Area.md",
-    "Notas diarias/2023-08-01.md",
-    "Notas diarias/2025-01-20.md",
-    "Notas diarias/2025-01-25.md",
-    "Notas diarias/2025-02-01.md",
-    "Notas diarias/2025-02-10.md",
-    "Notas diarias/2025-02-20.md",
-    "Notas diarias/2025-03-04.md",
-    "Notas diarias/2025-04-04.md",
-    "Notas diarias/2025-03-14.md",
-    "Notas diarias/2025-03-03.md",
-    "Notas diarias/2024-09-19.md",
-    "Proyectos/Study System.md",
+    "04 Ideas/Funciones cuadráticas.md",
+    "04 Ideas/Gráfica de los bonos.md",
+    "04 Ideas/Funciones lineales.md",
+    "04 Ideas/Funcionamiento de un Programa de Computadora.md",
+    "04 Ideas/Formas de liquidación.md",
+    "04 Ideas/Estructura de capital óptima y WACC.md",
+    "04 Ideas/Estructura para apuntalar una cultura ética.md",
+    "04 Ideas/Ética empresarial y la importancia de los valores.md",
+    "04 Ideas/Figuras que intervienen en la Operación de Seguros.md",
+    "04 Ideas/Exclusiones.md",
+    "04 Ideas/Elementos que conforman la prima.md",
+    "04 Ideas/Embarcaciones Menores de Placer.md",
+    "04 Ideas/El poder.md",
+    "04 Ideas/El interés.md",
+    "04 Ideas/Disposiciones de la Ley de Instituciones de Seguros y de Fianzas.md",
+    "04 Ideas/Diferencia entre autoridad y poder.md",
+    "04 Ideas/Designación de beneficiarios.md",
+    "04 Ideas/Desactivación del botón (X-close).md",
+    "04 Ideas/Demografía.md",
+    "04 Ideas/Cuadro comparativo  Modernidad, Posmodernidad e Hi.md",
+    "04 Ideas/Configuraciones básicas de Git.md",
+    "04 Ideas/Colaboradores de los proyectos Wikimedia.md",
+    "04 Ideas/Clasificación del riesgo.md",
+    "04 Ideas/Clasificación de las empresas por su régimen jurídico.md",
+    "04 Ideas/Clasificación de las empresas.canvas",
     "Recursos/Libros/Economia. Con aplicaciones a La - Paul A. Samuelson.pdf",
     "Recursos/Libros/Cronica de Dos Siglos del Segur - Antonio Minzoni Consorti.pdf",
     "Recursos/Libros/Calculo de varias variables, 4t - Dennis G. Zill.pdf",
     "Recursos/Libros/Calculo de varias variables Tr - Desconocido 202.pdf",
     "Recursos/Libros/Bases de datos - Catherine M. Ricardo.pdf",
-    "03 Areas/Historia.md",
-    "03 Areas/DAX.md",
-    "02 Universidad/04 Cuarto Semestre/Estadística Inferencial.md",
-    "03 Areas/Python.md",
-    "04 Ideas/Clasificación de las Bases de Datos.md",
-    "04 Ideas/Cardinalidades de Mapeo.md",
     "Research/logseq/srs-of-matrix.edn",
     "Research/logseq/config.edn",
     "Research/logseq/bak",
@@ -312,7 +325,6 @@
     "Knowledge Base/Recursos/Pasted image 20240724143118.png",
     "Knowledge Base/Recursos/Pasted image 20240724143113.png",
     "Knowledge Base/Recursos/Pasted image 20240123184444.png",
-    "04 Ideas/Clasificación de las empresas.canvas",
     "Untitled 1.canvas"
   ]
 }

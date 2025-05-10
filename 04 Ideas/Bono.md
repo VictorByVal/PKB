@@ -7,6 +7,8 @@ aliases:
 Materia::[[Ingeniería Económica]], [[Mercados e Instituciones Financieras]]
 Relacionado::[[Gráfica de los bonos]]
 
+- Bonos: Valores o títulos de deuda a largo plazo que emiten el tesoro, dependencias gubernamentales y corporaciones para respaldar sus operaciones. 
+
 Un bono es un instrumento de deuda que emite una empresa o administración pública para financiarse. 
 
 Le sirve a los emisores para financiar proyectos. 
@@ -19,5 +21,5 @@ Adicionalmente, en la fecha de maduración el inversionista recibirá un pago "V
 
 Precio del bono = $C \cdot a{\actuarialangle n}$
 
-- [ ] Encontrar una manera de generar LaTex lo más puros posibles en Obsidian. #task ⏫ ➕ 2024-08-07 
+- [ ] Encontrar una manera de generar LaTex lo más puros posibles en Obsidian. #task ⏫ ➕ 2024-08-07 [[Ingeniería Económica]]
 
