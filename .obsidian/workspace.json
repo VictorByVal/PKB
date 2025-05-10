@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ab3855fb285a6a02",
+        "id": "8e43d52a8be1604e",
         "type": "tabs",
         "children": [
           {
-            "id": "7146214202de2750",
+            "id": "38f62e695dfb4140",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Plantillas/Knowledge Note.md",
+                "file": "04 Ideas/Teoría de Conjuntos.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Knowledge Note"
+              "title": "Teoría de Conjuntos"
             }
           }
         ]
@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Plantillas/Knowledge Note.md",
+                "file": "04 Ideas/Teoría de Conjuntos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Knowledge Note"
+              "title": "Outline of Teoría de Conjuntos"
             }
           },
           {
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Plantillas/Knowledge Note.md",
+                "file": "04 Ideas/Teoría de Conjuntos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Knowledge Note"
+              "title": "Backlinks for Teoría de Conjuntos"
             }
           },
           {
@@ -173,12 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Plantillas/Knowledge Note.md",
+                "file": "04 Ideas/Teoría de Conjuntos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Knowledge Note"
+              "title": "Outgoing links from Teoría de Conjuntos"
             }
           },
           {
@@ -204,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 Plantillas/Knowledge Note.md",
+                "file": "04 Ideas/Teoría de Conjuntos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -232,7 +232,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Knowledge Note"
+              "title": "Graph of Teoría de Conjuntos"
             }
           }
         ]
@@ -263,8 +263,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7146214202de2750",
+  "active": "38f62e695dfb4140",
   "lastOpenFiles": [
+    "04 Ideas/Mercados e Instituciones Financieras.md",
+    "04 Ideas/Teoría de Conjuntos.md",
+    "04 Ideas/Ciencia de Datos.md",
+    "04 Ideas/Instituciones Financieras.md",
+    "00 Plantillas/Knowledge Note.md",
     "00 Plantillas/Area.md",
     "Notas diarias/2023-08-01.md",
     "Notas diarias/2025-01-20.md",
@@ -291,11 +296,6 @@
     "04 Ideas/Cardinalidades de Mapeo.md",
     "04 Ideas/Características de Python.md",
     "04 Ideas/Capital Mínimo de las Instituciones de Seguros.md",
-    "04 Ideas/Calistenia.md",
-    "03 Areas/Git.md",
-    "03 Areas/Ciberseguridad.md",
-    "03 Areas/Economía.md",
-    "03 Areas/Geometría Analítica.md",
     "Research/logseq/srs-of-matrix.edn",
     "Research/logseq/config.edn",
     "Research/logseq/bak",
