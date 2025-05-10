@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "8b564e318e6e9d13",
+        "id": "d8e63e6d78da2d55",
         "type": "tabs",
         "children": [
           {
-            "id": "c9b05718697cdc5c",
+            "id": "726b4c3f9e7225fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04 Ideas/Teoría de Conjuntos.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Teoría de Conjuntos"
             }
           }
         ]
@@ -159,11 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "04 Ideas/Teoría de Conjuntos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Teoría de Conjuntos"
             }
           },
           {
@@ -189,6 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "04 Ideas/Teoría de Conjuntos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -216,7 +232,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Teoría de Conjuntos"
             }
           }
         ]
@@ -247,10 +263,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c9b05718697cdc5c",
+  "active": "726b4c3f9e7225fd",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "02 Universidad/01 Primer Semestre/Matemáticas discretas.md",
     "04 Ideas/Teoría de Conjuntos.md",
+    "conflict-files-obsidian-git.md",
     "04 Ideas/Mercados e Instituciones Financieras.md",
     "04 Ideas/Ciencia de Datos.md",
     "04 Ideas/Instituciones Financieras.md",
@@ -279,7 +296,6 @@
     "03 Areas/Python.md",
     "04 Ideas/Clasificación de las Bases de Datos.md",
     "04 Ideas/Cardinalidades de Mapeo.md",
-    "04 Ideas/Características de Python.md",
     "Research/logseq/srs-of-matrix.edn",
     "Research/logseq/config.edn",
     "Research/logseq/bak",
