@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3a525333dfff872b",
+        "id": "7613061b3011e8fd",
         "type": "tabs",
         "children": [
           {
-            "id": "0206888f287a7e80",
+            "id": "3e99c3085544101f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Ideas/Ciencia de Datos.md",
+                "file": "04 Ideas/Pruebas de Hipótesis.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ciencia de Datos"
+              "title": "Pruebas de Hipótesis"
             }
           }
         ]
@@ -140,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "04 Ideas/Antecedentes Históricos del.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Antecedentes Históricos del"
             }
           },
           {
@@ -154,7 +155,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Ideas/Teoría de Conjuntos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Teoría de Conjuntos"
+              "title": "Backlinks"
             }
           },
           {
@@ -173,36 +173,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 Ideas/Teoría de Conjuntos.md",
+                "file": "04 Ideas/Pruebas de Hipótesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Teoría de Conjuntos"
+              "title": "Outgoing links from Pruebas de Hipótesis"
             }
           },
           {
-            "id": "8cc561313912ec5d",
+            "id": "4adbd382ac398eb1",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "360e14ca39fe79b0",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
             }
           }
         ],
@@ -218,7 +204,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 Ideas/Ciencia de Datos.md",
+                "file": "04 Ideas/Pruebas de Hipótesis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -246,7 +232,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Ciencia de Datos"
+              "title": "Graph of Pruebas de Hipótesis"
             }
           }
         ]
@@ -257,6 +243,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "quiz-generator:Open generator": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
@@ -266,47 +256,41 @@
       "audio-recorder:Start/stop recording": false,
       "canvas:Create new canvas": false,
       "workspaces:Manage workspace layouts": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "chronology:Open Chronology": false,
+      "chronology:Open Chronology": true,
       "callout-manager:Insert Callout": false,
-      "quiz-generator:Open generator": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "0206888f287a7e80",
+  "active": "3e99c3085544101f",
   "lastOpenFiles": [
     "04 Ideas/Ciencia de Datos.md",
-    "04 Ideas/Hipoteca.md",
     "04 Ideas/Valores o títulos respaldados por Hipotecas.md",
-    "Proyectos/Study System.md",
-    "Proyectos/Proyecto Health Tracker.md",
-    "Proyectos/Notas para la exposición (Incendio de las torres gemelas).md",
-    "Proyectos/Home Server.md",
+    "01 Bachillerato/Ecología y medio ambiente.md",
+    "01 Bachillerato/Desarrollo Empresarial.md",
+    "conflict-files-obsidian-git.md",
+    "04 Ideas/Git.md",
+    "04 Ideas/Cálculo de Varias Variables.md",
+    "03 Areas/Python.md",
+    "03 Areas/Git.md",
+    "03 Areas/DAX.md",
+    "04 Ideas/Sistemas Controladores de Versiones.md",
+    "04 Ideas/Configuraciones básicas de Git.md",
+    "00 Plantillas/Area.md",
+    "Hubs/Bachillerato.md",
+    "Hubs/Universidad.md",
+    "01 Bachillerato/Filosofía.md",
+    "01 Bachillerato/Contabilidad.md",
+    "04 Ideas/Desarrollo Empresarial.md",
+    "04 Ideas/Niveles de Configuración en Git.md",
+    "04 Ideas/Antecedentes históricos de las bases de datos.md",
+    "02 Universidad/04 Cuarto Semestre/Bases de Datos.md",
+    "04 Ideas/Administradores de Bases de Datos.md",
+    "04 Ideas/DAX.md",
+    "02 Universidad/04 Cuarto Semestre/Estadística Inferencial.md",
+    "04 Ideas/Estimación Puntual.md",
     "00 Plantillas/Knowledge Note.md",
-    "04 Ideas/Bono.md",
-    "svg-cache",
-    "04 Ideas/Instituciones Financieras.md",
-    "04 Ideas/Mercados e Instituciones Financieras.md",
-    "excalibrain.md",
-    "04 Ideas/Mercados Financieros.md",
-    "04 Ideas/Tipos de fraude financiero.md",
-    "04 Ideas/Mercados de deuda.md",
-    "04 Ideas/Intervalos de Confianza.md",
-    "04 Ideas/Instrumentos de capital.md",
-    "04 Ideas/Funciones cuadráticas.md",
-    "04 Ideas/Gráfica de los bonos.md",
-    "04 Ideas/Funciones lineales.md",
-    "04 Ideas/Funcionamiento de un Programa de Computadora.md",
-    "04 Ideas/Formas de liquidación.md",
-    "04 Ideas/Estructura de capital óptima y WACC.md",
-    "04 Ideas/Estructura para apuntalar una cultura ética.md",
-    "04 Ideas/Ética empresarial y la importancia de los valores.md",
-    "04 Ideas/Figuras que intervienen en la Operación de Seguros.md",
-    "04 Ideas/Clasificación de las empresas.canvas",
-    "Recursos/Libros/Economia. Con aplicaciones a La - Paul A. Samuelson.pdf",
-    "Recursos/Libros/Cronica de Dos Siglos del Segur - Antonio Minzoni Consorti.pdf",
-    "Recursos/Libros/Calculo de varias variables, 4t - Dennis G. Zill.pdf",
     "Recursos/Libros/Calculo de varias variables Tr - Desconocido 202.pdf",
     "Recursos/Libros/Bases de datos - Catherine M. Ricardo.pdf",
     "Research/logseq/srs-of-matrix.edn",
@@ -315,6 +299,10 @@
     "Research/assets/image_1706572144937_0.png",
     "Research/assets/image_1706571915406_0.png",
     "Research/assets/Cronica_de_Dos_Siglos_del_Segur_-_Antonio_Minzoni_Consorti_1720476098673_0.pdf",
+    "Research/assets/Cronica_de_Dos_Siglos_del_Segur_-_Antonio_Minzoni_Consorti_1720476098673_0.edn",
+    "Research/assets/ACTEX_EXAM_P_SECCION_1_(Part_I)_1720304166483_0.pdf",
+    "Research/assets/ACTEX_EXAM_P_SECCION_1_(Part_I)_1720304166483_0.edn",
+    "Research/pages",
     "Knowledge Base/Plug-ins/Mapas/Mapa de la civilización Griega.png",
     "Knowledge Base/Temas/Clasificación de las empresas.canvas",
     "Knowledge Base/Recursos/Pasted Image 20240919080748_162.png",
@@ -324,6 +312,7 @@
     "Knowledge Base/Recursos/Pasted image 20240724143118.png",
     "Knowledge Base/Recursos/Pasted image 20240724143113.png",
     "Knowledge Base/Recursos/Pasted image 20240123184444.png",
+    "04 Ideas/Clasificación de las empresas.canvas",
     "Untitled 1.canvas"
   ]
 }

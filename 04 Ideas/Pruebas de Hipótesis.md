@@ -6,6 +6,13 @@ Materia:: [[Estadística Inferencial]]
 Subtema:: 
 Relacionado:: 
 
+# Elementos de una Prueba de Hipótesis 
+1. Hipótesis Nula, $H_0$: Es una idea que tenemos respecto a una población (Conjetura inicial)
+2. Hipótesis Alternativa, $H_a$: Conjetura alterna.
+	- La idea contra la cuál vamos a comparar nuestra hipótesis nula. 
+3. Estadístico de Prueba:
+4. Región de Rechazo:
+
 Hipotesis: Es una idea que tenemos respecto a una población 
 
 Hipótesis nula: $H_0$: Conjetura inicial
