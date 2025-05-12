@@ -15,5 +15,5 @@ El punto de equilibrio sirve no solo para determinar el volumen mínimo de venta
 El punto de equilibrio de un negocio las ventas son iguales a los costos y los gastos, al aumentar el margen de ventas se obtiene utilidad y al bajarlo se producen pérdidas. 
 
 Por lo tanto para calcularlo se deben clasificar los costos en: 
-- Costos Fijos: Son los que se causan en forma invariable con cualquier nivel de ventas. 
-- Costos Variables: Son los que se realizan proporcionalmente con el nivel de ventas de la empresa. 
+- Costos Fijos: Son los que se causan en forma invariable con cualquier nivel de ventas.  ^28c104
+- Costos Variables: Son los que se realizan proporcionalmente con el nivel de ventas de la empresa.  ^f30c05
