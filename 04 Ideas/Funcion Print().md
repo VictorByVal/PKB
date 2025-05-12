@@ -2,7 +2,7 @@
 aliases: 
 tags:
 ---
-Materia:: 
+Materia:: [[Python]]
 Subtema:: 
 Relacionado:: 
 

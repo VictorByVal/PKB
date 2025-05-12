@@ -1,3 +1,5 @@
+Parent:: [[Bachillerato]]
+
 > [!concepto]
 > Disciplina que intenta mediante herramientas y métodos de reflexión específicos, darle respuesta a las preguntas que llamamos fundamentales
 

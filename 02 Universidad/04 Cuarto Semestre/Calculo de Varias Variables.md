@@ -1,9 +1,9 @@
 ---
-Docente: 
-Nivel educativo: 
-Grado: 
-Alias: 
-- Calculo Multivariable
+Docente: Ing. Marlen Deyanira Mendez Castillo
+Nivel educativo: "[[Universidad]]"
+Grado: Cuarto Semestre
+aliases:
+  - Calculo Multivariable
 ---
 
 

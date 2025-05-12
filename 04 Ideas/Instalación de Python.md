@@ -1,3 +1,5 @@
+Parent:: [[Python]]
+
 Cómo obtener Python y cómo llegar a usarlo
 
 Existen varias formas de obtener tu propia copia de Python 3, dependiendo del sistema operativo que utilices.

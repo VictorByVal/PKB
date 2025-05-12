@@ -6,7 +6,10 @@ Materia:: [[Estadística Inferencial]]
 Subtema:: 
 Relacionado:: 
 
-En estadística, una **estadística suficiente** es una función de los datos muestrales que contiene toda la información necesaria sobre un parámetro desconocido de la distribución de la población. Formalmente, una estadística $T(X)$ es suficiente para un parámetro $\theta$ si la distribución condicional de los datos $X$, dado $T(X)$, no depende de $\theta$.
+> [!concepto]
+> Función de los datos muestrales que contiene toda la información necesaria sobre un parámetro desconocido de la distribución de la población. 
+ 
+ Formalmente, una estadística $T(X)$ es suficiente para un parámetro $\theta$ si la distribución condicional de los datos $X$, dado $T(X)$, no depende de $\theta$.
 
 # Definición formal (Criterio de Factorización de Neyman)
 
@@ -22,12 +25,13 @@ Donde:
 Para determinar: 
 
 1. Sustituir la fórmula de la probabilidad condicional con los valores de la distribución. 
-2. Sustituir los valores de la fórmula de la probabilidad condicional con la función de distribución y remplazar a $x_i$ con $t$ 
+2. Sustituir los valores de la fórmula de la probabilidad condicional con la función de distribución y remplazar a $x_i$ con $t$, $y$ o el parámetro que se nos indique de acuerdo a notación. 
+3. Eliminar términos en el numerador y denominador con la finalidad de solamente dejar el parámetro remplazado. 
 
 # Glosario (Conceptos y definiciones)
 
 # Notas Adicionales
-
+- Los estadísticos suficientes a menudo se pueden usar para desarrollar estimadores que tienen varianza mínima entre todos los estimadores insesgados. 
 # Tasks
 
 # Cuestionario

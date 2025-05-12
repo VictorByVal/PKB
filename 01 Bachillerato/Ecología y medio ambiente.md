@@ -1,6 +1,6 @@
 ---
 Docente: 
-Nivel educativo: 
+Nivel educativo: "[[Bachillerato]]"
 Grado:
 ---
 

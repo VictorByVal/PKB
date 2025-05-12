@@ -3,6 +3,7 @@ Materia: Mercados e instituciones financieras
 Periodo: Ordinario
 aliases:
 ---
+Materia:: [[Mercados e Instituciones Financieras]]
 Parents::[[Consejeros]]
 
 Se recomienda la incorporación de mujeres en la integración del consejo de administración, con el propósito de enriquecer la diversidad de opiniones, conocimientos y experiencias; Así como tener reglas claras respecto a las funciones, la integración y el funcionamiento del consejo, que pueden regularse mediante los estatutos sociales, reglamentos o políticas, en adición a las que para cada caso prevea la ley aplicable al vehículo con el que se opere el negocio, a fin de no involucrar al consejo en actividades de la operación diaria de la sociedad, que deben competir a la dirección general. 
