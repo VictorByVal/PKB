@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Pruebas de Hipótesis"
             }
+          },
+          {
+            "id": "04b48daaa7dc0ce7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 Areas/DAX.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DAX"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,7 +243,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 Ideas/Pruebas de Hipótesis.md",
+                "file": "03 Areas/DAX.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -246,7 +271,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Pruebas de Hipótesis"
+              "title": "Graph of DAX"
             }
           }
         ]
@@ -274,10 +299,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3e99c3085544101f",
+  "active": "04b48daaa7dc0ce7",
   "lastOpenFiles": [
-    "04 Ideas/Análisis de Costos.md",
+    "03 Areas/Git.md",
     "04 Ideas/Pruebas de Hipótesis.md",
+    "04 Ideas/Análisis de Costos.md",
     "04 Ideas/Drifting.md",
     "04 Ideas/Introducción a la Programación.md",
     "04 Ideas/Contabilidad Financiera.md",
@@ -289,7 +315,6 @@
     "04 Ideas/Git.md",
     "04 Ideas/Cálculo de Varias Variables.md",
     "03 Areas/Python.md",
-    "03 Areas/Git.md",
     "03 Areas/DAX.md",
     "04 Ideas/Sistemas Controladores de Versiones.md",
     "04 Ideas/Configuraciones básicas de Git.md",
