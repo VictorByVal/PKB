@@ -4,17 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "6bfe52f02434f58b",
+        "id": "ed7424b0e5c9b49e",
         "type": "tabs",
         "children": [
           {
-            "id": "7be334fe7ed9cfcd",
+            "id": "26d524b58a599932",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04 Ideas/Sistemas Controladores de Versiones.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Sistemas Controladores de Versiones"
+            }
+          },
+          {
+            "id": "bc2a278facbfc207",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Ideas/Historia y Antecedentes de Git.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Historia y Antecedentes de Git"
             }
           }
         ]
@@ -105,7 +143,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,6 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "04 Ideas/Sistemas Controladores de Versiones.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,7 +270,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Sistemas Controladores de Versiones"
             }
           }
         ]
@@ -258,16 +298,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7be334fe7ed9cfcd",
+  "active": "26d524b58a599932",
   "lastOpenFiles": [
-    "04 Ideas/Entrenamiento Personal.md",
-    "conflict-files-obsidian-git.md",
-    "04 Ideas/Estrategias de dieta para cambiar la composición corporal.md",
-    "04 Ideas/Body Building.md",
-    "04 Ideas/Estiramientos previo a trabajo con Pesas.md",
+    "04 Ideas/Historia y Antecedentes de Git.md",
+    "04 Ideas/Sistemas Controladores de Versiones.md",
     "04 Ideas/www.AlexLeonitis.wikipedia.md",
-    "04 Ideas/Untitled.md",
     "04 Ideas/Pruebas de Hipótesis.md",
+    "04 Ideas/Estrategias de dieta para cambiar la composición corporal.md",
+    "03 Areas/DAX.md",
+    "04 Ideas/Estiramientos previo a trabajo con Pesas.md",
+    "04 Ideas/Body Building.md",
+    "03 Areas/Git.md",
     "04 Ideas/Análisis de Costos.md",
     "04 Ideas/Drifting.md",
     "04 Ideas/Introducción a la Programación.md",
@@ -276,16 +317,15 @@
     "04 Ideas/Valores o títulos respaldados por Hipotecas.md",
     "01 Bachillerato/Ecología y medio ambiente.md",
     "01 Bachillerato/Desarrollo Empresarial.md",
+    "conflict-files-obsidian-git.md",
     "04 Ideas/Git.md",
     "04 Ideas/Cálculo de Varias Variables.md",
     "03 Areas/Python.md",
-    "03 Areas/Git.md",
-    "03 Areas/DAX.md",
-    "04 Ideas/Sistemas Controladores de Versiones.md",
     "04 Ideas/Configuraciones básicas de Git.md",
     "00 Plantillas/Area.md",
     "Hubs/Bachillerato.md",
     "Hubs/Universidad.md",
+    "01 Bachillerato/Filosofía.md",
     "Recursos/Libros/Calculo de varias variables Tr - Desconocido 202.pdf",
     "Recursos/Libros/Bases de datos - Catherine M. Ricardo.pdf",
     "Research/logseq/srs-of-matrix.edn",

@@ -14,8 +14,9 @@ Relacionado:: [[Git]]
 - Sistemas centralizados de control de versiones: Son aquellos que contienen un solo servidor que contiene todos los archivos versionados y un número de clientes que extraen los archivos de ese lugar central. 
 	- Este fue el standard del control de versiones por muchos años. 
 	- Este tipo de software tenía el problema de que si el servidor colapsaba nadie podía colaborar o guardar los cambios versionados y si el disco duro de la base de datos central colapsaba, los archivos se corrompían y las copias hechas con anterioridad y de manera ideal se perdían, perdiendo por consiguiente la historia completa del proyecto, excepto cualquier vestigio que los contribuidores tuvieran en su dispositivo
-- Sistemas distribuidos de control de versiones: 
-
+- Sistemas distribuidos de control de versiones: Son aquellos en donde los clientes, realizan una copia del repositorio incluyendo su historial completo, por lo que en dado caso de que el servidor muera y estos sistemas estuvieran colaborando a través de dicho servidor, cualquiera de los repositorios de los clientes pueden ser copiados de nuevo al servidor para restaurarlo 
+	-  Cada clon es una copia de respaldo de los datos
+	- Ejemplos conocidos son: Git, Mercurial o Darcs
 # Glosario (Conceptos y definiciones)
 
 # Notas Adicionales

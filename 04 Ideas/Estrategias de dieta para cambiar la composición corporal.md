@@ -36,16 +36,22 @@ Relacionado::
 			- Si se detiene el *Dreamer Bulking* antes de que la circunferencia de tu cintura alcance las 36 o 40 pulgadas, es bastante improbable que te lastime en cualquier sentido, aún así no es recomendable. 
 - Bear Mode Bulking 
 	- Fue creado por [Alex Leonidas](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://translate.google.com/translate%3Fu%3Dhttps://alexleonidas.com/naturally-enhanced/%26hl%3Des%26sl%3Den%26tl%3Des%26client%3Dsrp&ved=2ahUKEwjGlO7FlKKNAxWJAHkGHSpKBDcQFnoECFMQAQ&usg=AOvVaw3NS9WIgOs-sSRFY4zoSmh3) y popularizado por Jeff Nippard  
-	- Es cuando se realiza un *Dreamer Bulk a propósito*, la idea es ganar peso rápidamente para maximizar el crecimiento múscular y darle cabida a la grasa corporal extra, debido a que te hará lucir más grande y más formidable, especialmente en la ropa
+	- Es cuando se realiza un *Dreamer Bulk a propósito*, la idea es ganar peso rápidamente para maximizar el crecimiento muscular y darle cabida a la grasa corporal extra, debido a que te hará lucir más grande y más formidable, especialmente en la ropa
 	- La otra parte de entrar en *Bear Mode* es dejarte crecer la barba y el pelo corporal, debido a que el cabello extra añade más textura a tu cuerpo lo que lucha en contra de la suavidad redonda de la grasa corporal que estás ganando
 	- Sufre de los mismos problemas de el *Dreamer Bulk*
 - Phantom Bulking 
-	- Es cuando crees que estás comiendo en un superavit calórico, pero no estás verdaderamente consumiendo la cantidad de comida suficiente, por lo que no ganas peso, no construyes músculo y no te vuelves más fuerte
-	- Usualmente acecha a las personas naturalmente delgadas, debido a que les resulta difícil consumir la cantidad de comida suficiente para sobrepasar sus sistemas metabolicos de punta
+	- Es cuando crees que estás comiendo en un superávit calórico, pero no estás verdaderamente consumiendo la cantidad de comida suficiente, por lo que no ganas peso, no construyes músculo y no te vuelves más fuerte
+	- Usualmente acecha a las personas naturalmente delgadas, debido a que les resulta difícil consumir la cantidad de comida suficiente para sobrepasar sus sistemas metabólicos de punta
 	- La solución es pesarse cada semana y cuando no se gane peso se necesita consumir un poco más de comida 
 		- Se recomienda añadir unas 200 calorías extra e irse pesando semanalmente hasta que se gane peso a un ritmo al que se esté satisfecho
 	- Es bastante salubre, se están levantando pesas, comiendo una buena dieta y viviendo un estilo de vida saludable
 - Dirty Bulking 
+	- Es cuando se consumen alimentos chatarra altos en calorías para facilitar entrar en un superávit calórico y mientras más grande sea el superávit calórico mejor. 
+	- Por eso se le conoce como la dieta de comida marina o "Seafood Diet" donde comes toda la comida que puedes comer
+	- La mayoría de las personas piensan que el *Dirty Bulking* los hará engordar, algo que en efecto puede ocurrir, pero no siempre. 
+		- Esto principalmente depende de que tanta comida puedes comer, que tan mala es tu dieta y cuanto crecimiento muscular se está estimulando en el gimnasio
+
+
 
 > [!attention]
 > Las personas que se preocupan por su salud y el fitness usualmente se centran en el *cutting*, la *recomposición corporal* y el *Crecimiento muscular*, debido a que son las mejores a la hora de incrementar la fuerza, la masa muscular y mantener la definición, además de que son las alternativas más salubres. 
