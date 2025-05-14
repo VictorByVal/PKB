@@ -1,5 +1,5 @@
 > [!concepto]
-> Es el lenguaje de programación de Microsoft Power BI, Microsoft Analysis Services y Microsoft Power Pivot for Excel. 
+> Es el lenguaje de programación de Microsoft Power BI, Microsoft Analysis Services y Microsoft Power Pivot para Excel. 
 
 
 
@@ -8,17 +8,17 @@
 >[!temas]+ 
 >```dataview
 >list 
->where contains(materia, [[<tp.file.title>]])
+>where contains(materia, [[DAX]])
 >```
 
 >[!diario]- Notas diarias
 >```list
 >from "Notas diarias"
->where contains(relacionado, [[<tp.file.title>]])
+>where contains(relacionado, [[DAX]])
 >```
 
 >[!done]+ Tareas
 >```tasks
 >not done 
->description includes [[<tp.file.title]]
+>description includes [[DAX]]
 
