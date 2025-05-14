@@ -20,7 +20,7 @@
 >```
 
 
-- [ ] Generar un sistema para indexar contenidos que no necesariamente sean escolares #task 
+
 
 
 

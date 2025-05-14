@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Ideas/Pruebas de Hipótesis.md",
+                "file": "04 Ideas/Entrenamiento Personal.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pruebas de Hipótesis"
+              "title": "Entrenamiento Personal"
+            }
+          },
+          {
+            "id": "fb9f81281943d443",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Ideas/Estrategias de dieta para cambiar la composición corporal.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Estrategias de dieta para cambiar la composición corporal"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -119,8 +144,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 Ideas/Pruebas de Hipótesis.md",
+                "file": "04 Ideas/Estrategias de dieta para cambiar la composición corporal.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -246,7 +270,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Pruebas de Hipótesis"
+              "title": "Graph of Estrategias de dieta para cambiar la composición corporal"
             }
           }
         ]
@@ -274,10 +298,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3e99c3085544101f",
+  "active": "fb9f81281943d443",
   "lastOpenFiles": [
-    "04 Ideas/Análisis de Costos.md",
+    "04 Ideas/Body Building.md",
+    "04 Ideas/Estiramientos previo a trabajo con Pesas.md",
+    "04 Ideas/www.AlexLeonitis.wikipedia.md",
+    "04 Ideas/Estrategias de dieta para cambiar la composición corporal.md",
+    "04 Ideas/Untitled.md",
+    "04 Ideas/Entrenamiento Personal.md",
     "04 Ideas/Pruebas de Hipótesis.md",
+    "04 Ideas/Análisis de Costos.md",
     "04 Ideas/Drifting.md",
     "04 Ideas/Introducción a la Programación.md",
     "04 Ideas/Contabilidad Financiera.md",
@@ -296,12 +326,6 @@
     "00 Plantillas/Area.md",
     "Hubs/Bachillerato.md",
     "Hubs/Universidad.md",
-    "01 Bachillerato/Filosofía.md",
-    "01 Bachillerato/Contabilidad.md",
-    "04 Ideas/Desarrollo Empresarial.md",
-    "04 Ideas/Niveles de Configuración en Git.md",
-    "04 Ideas/Antecedentes históricos de las bases de datos.md",
-    "02 Universidad/04 Cuarto Semestre/Bases de Datos.md",
     "Recursos/Libros/Calculo de varias variables Tr - Desconocido 202.pdf",
     "Recursos/Libros/Bases de datos - Catherine M. Ricardo.pdf",
     "Research/logseq/srs-of-matrix.edn",
