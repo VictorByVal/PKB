@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "04f7235e126eff2c",
+        "id": "0d2bb3ed84d18207",
         "type": "tabs",
         "children": [
           {
-            "id": "e8c2f3f0a7bd240a",
+            "id": "0192c0d169b993d7",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -247,19 +247,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e8c2f3f0a7bd240a",
+  "active": "0192c0d169b993d7",
   "lastOpenFiles": [
-    "04 Ideas/Teoría de la Utilidad.md",
-    "02 Universidad/04 Cuarto Semestre/Microeconomía.md",
-    "04 Ideas/Modelo del Flujo Circular.md",
-    "04 Ideas/Elasticidad.md",
-    "04 Ideas/Neoclasicismo.md",
-    "04 Ideas/Sistemas Económicos.md",
-    "04 Ideas/Modelo Clásico.md",
-    "04 Ideas/Marxismo.md",
-    "04 Ideas/Fisiocracia.md",
-    "04 Ideas/Keynesianismo.md",
     "04 Ideas/Estrategias de dieta para cambiar la composición corporal.md",
+    "04 Ideas/Free Software Fundation y el Open Source Alternative.md",
+    "03 Areas/Linux.md",
+    "04 Ideas/Software de código abierto y Licenciamiento.md",
+    "04 Ideas/Aplicaciones de Servidor.md",
+    "04 Ideas/Plataformas de Hardware.md",
+    "04 Ideas/Principales Aplicaciones del Código Abierto.md",
+    "04 Ideas/Herramientas de Linux en Consola.md",
+    "04 Ideas/Modelos de Negocio del Código Abierto.md",
+    "04 Ideas/Herramientas de Desarrollo en Linux.md",
+    "04 Ideas/Aplicaciones de Escritorio en Linux.md",
     "04 Ideas/Historia y Antecedentes de Git.md",
     "Proyectos/Home Server.md",
     "Proyectos/Study System.md",
@@ -269,12 +269,12 @@
     "04 Ideas/Body Building.md",
     "04 Ideas/Estiramientos previo a trabajo con Pesas.md",
     "04 Ideas/www.AlexLeonitis.wikipedia.md",
-    "04 Ideas/Untitled.md",
     "04 Ideas/Pruebas de Hipótesis.md",
     "04 Ideas/Análisis de Costos.md",
     "04 Ideas/Drifting.md",
     "04 Ideas/Introducción a la Programación.md",
     "04 Ideas/Contabilidad Financiera.md",
+    "04 Ideas/Ciencia de Datos.md",
     "Recursos/Libros/Calculo de varias variables Tr - Desconocido 202.pdf",
     "Recursos/Libros/Bases de datos - Catherine M. Ricardo.pdf",
     "Research/logseq/srs-of-matrix.edn",
