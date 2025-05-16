@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "0d2bb3ed84d18207",
+        "id": "2d65249b284840bc",
         "type": "tabs",
         "children": [
           {
-            "id": "0192c0d169b993d7",
+            "id": "6f8d42d66a39abe3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "03 Areas/Linux.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Linux"
             }
           }
         ]
@@ -193,6 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "03 Areas/Linux.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -220,7 +235,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Linux"
             }
           }
         ]
@@ -247,11 +262,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0192c0d169b993d7",
+  "active": "6f8d42d66a39abe3",
   "lastOpenFiles": [
+    "03 Areas/Git.md",
+    "03 Areas/Geometría Analítica.md",
+    "03 Areas/Economía.md",
+    "03 Areas/DAX.md",
+    "04 Ideas/Virtualización y Cloud Computing en Linux.md",
+    "03 Areas/Ciberseguridad.md",
+    "03 Areas/Python.md",
+    "03 Areas/Linux.md",
     "04 Ideas/Estrategias de dieta para cambiar la composición corporal.md",
     "04 Ideas/Free Software Fundation y el Open Source Alternative.md",
-    "03 Areas/Linux.md",
     "04 Ideas/Software de código abierto y Licenciamiento.md",
     "04 Ideas/Aplicaciones de Servidor.md",
     "04 Ideas/Plataformas de Hardware.md",
@@ -268,13 +290,6 @@
     "conflict-files-obsidian-git.md",
     "04 Ideas/Body Building.md",
     "04 Ideas/Estiramientos previo a trabajo con Pesas.md",
-    "04 Ideas/www.AlexLeonitis.wikipedia.md",
-    "04 Ideas/Pruebas de Hipótesis.md",
-    "04 Ideas/Análisis de Costos.md",
-    "04 Ideas/Drifting.md",
-    "04 Ideas/Introducción a la Programación.md",
-    "04 Ideas/Contabilidad Financiera.md",
-    "04 Ideas/Ciencia de Datos.md",
     "Recursos/Libros/Calculo de varias variables Tr - Desconocido 202.pdf",
     "Recursos/Libros/Bases de datos - Catherine M. Ricardo.pdf",
     "Research/logseq/srs-of-matrix.edn",
