@@ -6,10 +6,8 @@ Materia:: [[Microeconomía]],
 Parent:: [[Sistemas Económicos]]
 Relacionado:: [[2025-01-20]]
 
-```ad-abstract
-title: Concepto de Fisiocracia
-Corriente económica del siglo XVIII que promueve la mínima intervención del estado en la economía. 
-```
+> [!concepto] Concepto de Fisiocracia
+> Corriente económica del siglo XVIII que promueve la mínima intervención del estado en la economía. 
 
 - Introdujo el término "Laissez Faire"
 	- Significa "Dejen Hacer" o "Dejar Hacer"
