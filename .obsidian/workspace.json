@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2d65249b284840bc",
+        "id": "63801ef3aa7fa349",
         "type": "tabs",
         "children": [
           {
-            "id": "6f8d42d66a39abe3",
+            "id": "7ba934ef462b660d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Areas/Linux.md",
+                "file": "04 Ideas/Modelos económicos.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Linux"
+              "title": "Modelos económicos"
             }
           }
         ]
@@ -109,7 +109,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -207,7 +208,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 Areas/Linux.md",
+                "file": "04 Ideas/Modelos económicos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -235,7 +236,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Linux"
+              "title": "Graph of Modelos económicos"
             }
           }
         ]
@@ -262,8 +263,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6f8d42d66a39abe3",
+  "active": "7ba934ef462b660d",
   "lastOpenFiles": [
+    "02 Universidad/04 Cuarto Semestre/Microeconomía.md",
+    "04 Ideas/Modelos económicos.md",
+    "04 Ideas/Teoría de la Utilidad.md",
+    "04 Ideas/Modelo del Flujo Circular.md",
+    "Recursos/Representación gráfica del modelo del Flujo Circular.png",
+    "03 Areas/Linux.md",
     "03 Areas/Git.md",
     "03 Areas/Geometría Analítica.md",
     "03 Areas/Economía.md",
@@ -271,7 +278,6 @@
     "04 Ideas/Virtualización y Cloud Computing en Linux.md",
     "03 Areas/Ciberseguridad.md",
     "03 Areas/Python.md",
-    "03 Areas/Linux.md",
     "04 Ideas/Estrategias de dieta para cambiar la composición corporal.md",
     "04 Ideas/Free Software Fundation y el Open Source Alternative.md",
     "04 Ideas/Software de código abierto y Licenciamiento.md",
@@ -286,10 +292,6 @@
     "Proyectos/Home Server.md",
     "Proyectos/Study System.md",
     "Proyectos/Proyecto Health Tracker.md",
-    "04 Ideas/Entrenamiento Personal.md",
-    "conflict-files-obsidian-git.md",
-    "04 Ideas/Body Building.md",
-    "04 Ideas/Estiramientos previo a trabajo con Pesas.md",
     "Recursos/Libros/Calculo de varias variables Tr - Desconocido 202.pdf",
     "Recursos/Libros/Bases de datos - Catherine M. Ricardo.pdf",
     "Research/logseq/srs-of-matrix.edn",
@@ -310,7 +312,6 @@
     "Knowledge Base/Recursos/Pasted image 20240831163526.png",
     "Knowledge Base/Recursos/Pasted image 20240724143118.png",
     "Knowledge Base/Recursos/Pasted image 20240724143113.png",
-    "Knowledge Base/Recursos/Pasted image 20240123184444.png",
     "04 Ideas/Clasificación de las empresas.canvas",
     "Untitled 1.canvas"
   ]

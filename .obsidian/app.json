@@ -17,7 +17,7 @@
   },
   "promptDelete": true,
   "showUnsupportedFiles": true,
-  "vimMode": true,
+  "vimMode": false,
   "defaultViewMode": "preview",
   "livePreview": false,
   "showLineNumber": true
