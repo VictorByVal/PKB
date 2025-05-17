@@ -15,3 +15,4 @@ $$S =  \{0, \infty\}$$
 # Eventos 
 Es cualquier colección de posibles resultados de un experimento, es decir cualquier subconjunto de $S$, incluyendo $S$ en sí misma. 
 
+# Notas adicionales
