@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7ba934ef462b660d",
+            "id": "5e2da0bc7378dcd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Areas/Teoría de Conjuntos.md",
-                "mode": "preview",
+                "file": "Proyectos/PKB.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Teoría de Conjuntos"
-            }
-          },
-          {
-            "id": "7253b01d700810d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Ideas/Notación de Conjuntos.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Notación de Conjuntos"
-            }
-          },
-          {
-            "id": "04589c1cb180e3d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Ideas/Algebra de Conjuntos.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Algebra de Conjuntos"
+              "title": "PKB"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,8 +109,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -229,20 +179,6 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "562f117eaee270a9",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
           }
         ],
         "currentTab": 3
@@ -257,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 Ideas/Algebra de Conjuntos.md",
+                "file": "Proyectos/PKB.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -285,7 +221,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Algebra de Conjuntos"
+              "title": "Graph of PKB"
             }
           }
         ]
@@ -309,38 +245,47 @@
       "callout-manager:Insert Callout": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false
+      "reference-map:Reference Map": false,
+      "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "04589c1cb180e3d3",
+  "active": "5e2da0bc7378dcd5",
   "lastOpenFiles": [
-    "04 Ideas/Untitled.md",
-    "04 Ideas/Algebra de Conjuntos.md",
-    "03 Areas/Teoría de Conjuntos.md",
-    "04 Ideas/Notación de Conjuntos.md",
-    "04 Ideas/Matrices.md",
-    "00 Plantillas/Area.md",
-    "00 Plantillas/Knowledge Note.md",
-    "04 Ideas/Estadística.md",
-    "02 Universidad/04 Cuarto Semestre/Estadística Inferencial.md",
-    "04 Ideas/Probabilidad.md",
-    "02 Universidad/03 Tercer Semestre/Probabilidad y estadística.md",
-    "04 Ideas/Historia y Antecedentes de la Probabilidad.md",
-    "04 Ideas/Modelos económicos.md",
-    "02 Universidad/04 Cuarto Semestre/Microeconomía.md",
-    "04 Ideas/Teoría de la Utilidad.md",
-    "04 Ideas/Modelo del Flujo Circular.md",
+    "Recursos/Pasted image 20250517213945.png",
+    "Proyectos/PKB.md",
+    "Recursos/Pasted image 20250517213946.png",
+    "Building a Second Brain - Tiago Forte.md",
+    "04 Ideas/Mercados e Instituciones Financieras.md",
+    "excalibrain.md",
+    "Recursos/Recording 20250304124140.m4a",
+    "Resources/@_This_catalog_of_171_entries_was_generated_by_calibre_on_s_bado.md",
+    "Resources/@14277153.md",
+    "Resources/@ArturoAguilarMarquez161.md",
+    "Resources/@BernardKolman246.md",
+    "Resources/@JayL_Devore245.md",
+    "Resources/@HugoD_Junghenn244.md",
+    "Resources/@YukioMishima243.md",
+    "Resources/@DesignMuseum242.md",
+    "Resources/@GeorgeCasella_RogerBerger_241.md",
+    "Resources/@PaulA_Samuelson240.md",
+    "Resources/@CueManceraAgustin_QuintanaRomeroLuis_239.md",
+    "Resources/@GuillermoValdesCastellanos238.md",
+    "Resources/@G5__1237.md",
+    "Resources/@ScottChaconBenStraub236.md",
+    "Resources/@OliviaDodson235.md",
+    "Resources/@Desconocido234.md",
+    "Resources/@Desconocido233.md",
+    "Resources/@Desconocido232.md",
+    "Resources/@EdithHamilton231.md",
+    "Resources/@RobertGraves230.md",
+    "Resources/@MarioGorosito228.md",
+    "Resources",
+    "Recursos/Mis libros.bib",
+    "Recursos/IMG20250204111438 (1).svg",
+    "Recursos/Pasted image 20250301141033.png",
+    "Recursos/Pasted image 20250517193711 1.png",
+    "Recursos/Pasted image 20250517193711.png",
     "Recursos/Representación gráfica del modelo del Flujo Circular.png",
-    "03 Areas/Linux.md",
-    "03 Areas/Git.md",
-    "03 Areas/Geometría Analítica.md",
-    "03 Areas/Economía.md",
-    "03 Areas/DAX.md",
-    "04 Ideas/Virtualización y Cloud Computing en Linux.md",
-    "03 Areas/Ciberseguridad.md",
-    "03 Areas/Python.md",
-    "04 Ideas/Estrategias de dieta para cambiar la composición corporal.md",
-    "04 Ideas/Free Software Fundation y el Open Source Alternative.md",
     "Recursos/Libros/Calculo de varias variables Tr - Desconocido 202.pdf",
     "Recursos/Libros/Bases de datos - Catherine M. Ricardo.pdf",
     "Research/logseq/srs-of-matrix.edn",
@@ -350,17 +295,8 @@
     "Research/assets/image_1706571915406_0.png",
     "Research/assets/Cronica_de_Dos_Siglos_del_Segur_-_Antonio_Minzoni_Consorti_1720476098673_0.pdf",
     "Research/assets/Cronica_de_Dos_Siglos_del_Segur_-_Antonio_Minzoni_Consorti_1720476098673_0.edn",
-    "Research/assets/ACTEX_EXAM_P_SECCION_1_(Part_I)_1720304166483_0.pdf",
-    "Research/assets/ACTEX_EXAM_P_SECCION_1_(Part_I)_1720304166483_0.edn",
-    "Research/pages",
     "Knowledge Base/Plug-ins/Mapas/Mapa de la civilización Griega.png",
     "Knowledge Base/Temas/Clasificación de las empresas.canvas",
-    "Knowledge Base/Recursos/Pasted Image 20240919080748_162.png",
-    "Knowledge Base/Recursos/Pasted image 20240806103120.png",
-    "Knowledge Base/Recursos/Pasted image 20240911191853.png",
-    "Knowledge Base/Recursos/Pasted image 20240831163526.png",
-    "Knowledge Base/Recursos/Pasted image 20240724143118.png",
-    "Knowledge Base/Recursos/Pasted image 20240724143113.png",
     "04 Ideas/Clasificación de las empresas.canvas",
     "Untitled 1.canvas"
   ]

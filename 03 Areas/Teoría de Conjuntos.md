@@ -46,3 +46,4 @@ Es cualquier colección de posibles resultados de un experimento, es decir cualq
 
 # Notas adicionales
 - Los *diagramas de Venn*: Son herramientas para representar de forma conveniente los conjuntos y las relaciones entre ellos
+

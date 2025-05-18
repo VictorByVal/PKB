@@ -1,4 +1,4 @@
-Relacionado:: [[Sistemas de productividad]], 
+Relacionado:: [[Sistemas de productividad]], [[PKB]]
 - El nombre del proyecto esta sujeto a cambio, pero la idea es la misma 
 - Pienso hacer un plan de estudio integral que se acople de manera concisa a la clase de cosas que pienso hacer. 
 # Requisitos 
