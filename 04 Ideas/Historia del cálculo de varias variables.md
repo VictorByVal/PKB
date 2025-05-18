@@ -2,7 +2,7 @@
 aliases: 
 tags:
 ---
-Materia:: [[Cálculo de Varias Variables]]
+Materia:: [[04 Ideas/Cálculo de Varias Variables]]
 Subtema:: 
 Relacionado:: [[Cultura Griega]], [[Historia]]
 

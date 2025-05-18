@@ -2,7 +2,7 @@
 aliases: 
 tags:
 ---
-Materia:: [[Calculo de Varias Variables]]
+Materia:: [[02 Universidad/04 Cuarto Semestre/Cálculo de Varias Variables]]
 Subtema:: 
 Relacionado:: 
 

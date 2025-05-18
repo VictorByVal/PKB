@@ -4,7 +4,7 @@ aliases:
   - Matricial
 tags:
 ---
-Materia:: [[Algebra Lineal]], [[Cálculo de Varias Variables]]
+Materia:: [[Algebra Lineal]], [[04 Ideas/Cálculo de Varias Variables]]
 Relacionado:: 
 
 # Glosario

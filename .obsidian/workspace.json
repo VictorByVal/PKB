@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "63801ef3aa7fa349",
+        "id": "3c3816b44db12d69",
         "type": "tabs",
         "children": [
           {
-            "id": "5e2da0bc7378dcd5",
+            "id": "9a79bb88d13b2037",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proyectos/PKB.md",
-                "mode": "source",
+                "file": "04 Ideas/Ciencia de Datos.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PKB"
+              "title": "Ciencia de Datos"
             }
           }
         ]
@@ -109,7 +109,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -193,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Proyectos/PKB.md",
+                "file": "04 Ideas/Ciencia de Datos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -216,12 +217,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.358015759044101,
+                  "scale": 0.2386771726960673,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of PKB"
+              "title": "Graph of Ciencia de Datos"
             }
           }
         ]
@@ -249,36 +250,38 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "5e2da0bc7378dcd5",
+  "active": "9a79bb88d13b2037",
   "lastOpenFiles": [
-    "Recursos/Pasted image 20250517213945.png",
+    "04 Ideas/Estimaciones de Ubicación.md",
+    "04 Ideas/Ciencia de Datos.md",
+    "03 Areas/Ciberseguridad.md",
+    "Proyectos/Home Server.md",
     "Proyectos/PKB.md",
+    "Proyectos/Proyecto Health Tracker.md",
+    "Proyectos/Study System.md",
+    "04 Ideas/Conceptos y definiciones introductorias al Cálculo de varias variables.md",
+    "04 Ideas/Historia del Cálculo Integral.md",
+    "02 Universidad/03 Tercer Semestre/Cálculo II.md",
+    "Hubs/Bachillerato.md",
+    "Notas diarias/2024-07-24.md",
+    "02 Universidad/04 Cuarto Semestre/Cálculo de Varias Variables.md",
+    "04 Ideas/Curvas Concoides de Nicomedes.md",
+    "04 Ideas/Introducción al cálculo de varias variables.md",
+    "04 Ideas/Cálculo de Varias Variables.md",
+    "04 Ideas/Familias de Curvas Paramétricas.md",
+    "04 Ideas/La Curva Cicloide.md",
+    "Recursos/Ilustración de la curva Cicloide.png",
+    "Notas diarias/2023-08-01.md",
+    "Notas diarias/2024-01-23.md",
+    "Notas diarias/2024-01-25.md",
+    "Notas diarias/2024-07-12.md",
+    "Notas diarias/2024-08-24.md",
+    "Notas diarias/2024-09-19.md",
+    "Notas diarias/2024-09-29.md",
+    "Notas diarias/2025-01-14.md",
+    "Recursos/Pasted image 20250517213945.png",
     "Recursos/Pasted image 20250517213946.png",
-    "Building a Second Brain - Tiago Forte.md",
-    "04 Ideas/Mercados e Instituciones Financieras.md",
-    "excalibrain.md",
     "Recursos/Recording 20250304124140.m4a",
-    "Resources/@_This_catalog_of_171_entries_was_generated_by_calibre_on_s_bado.md",
-    "Resources/@14277153.md",
-    "Resources/@ArturoAguilarMarquez161.md",
-    "Resources/@BernardKolman246.md",
-    "Resources/@JayL_Devore245.md",
-    "Resources/@HugoD_Junghenn244.md",
-    "Resources/@YukioMishima243.md",
-    "Resources/@DesignMuseum242.md",
-    "Resources/@GeorgeCasella_RogerBerger_241.md",
-    "Resources/@PaulA_Samuelson240.md",
-    "Resources/@CueManceraAgustin_QuintanaRomeroLuis_239.md",
-    "Resources/@GuillermoValdesCastellanos238.md",
-    "Resources/@G5__1237.md",
-    "Resources/@ScottChaconBenStraub236.md",
-    "Resources/@OliviaDodson235.md",
-    "Resources/@Desconocido234.md",
-    "Resources/@Desconocido233.md",
-    "Resources/@Desconocido232.md",
-    "Resources/@EdithHamilton231.md",
-    "Resources/@RobertGraves230.md",
-    "Resources/@MarioGorosito228.md",
     "Resources",
     "Recursos/Mis libros.bib",
     "Recursos/IMG20250204111438 (1).svg",
@@ -295,7 +298,6 @@
     "Research/assets/image_1706571915406_0.png",
     "Research/assets/Cronica_de_Dos_Siglos_del_Segur_-_Antonio_Minzoni_Consorti_1720476098673_0.pdf",
     "Research/assets/Cronica_de_Dos_Siglos_del_Segur_-_Antonio_Minzoni_Consorti_1720476098673_0.edn",
-    "Knowledge Base/Plug-ins/Mapas/Mapa de la civilización Griega.png",
     "Knowledge Base/Temas/Clasificación de las empresas.canvas",
     "04 Ideas/Clasificación de las empresas.canvas",
     "Untitled 1.canvas"
