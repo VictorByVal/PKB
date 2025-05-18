@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Ideas/Teoría de Conjuntos.md",
+                "file": "03 Areas/Teoría de Conjuntos.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -29,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "Teoría de Conjuntos"
+            }
+          },
+          {
+            "id": "7253b01d700810d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 Ideas/Notación de Conjuntos.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Notación de Conjuntos"
             }
           },
           {
@@ -55,7 +79,8 @@
               "title": "Algebra de Conjuntos"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -232,7 +257,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 Ideas/Teoría de Conjuntos.md",
+                "file": "04 Ideas/Algebra de Conjuntos.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -260,7 +285,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Teoría de Conjuntos"
+              "title": "Graph of Algebra de Conjuntos"
             }
           }
         ]
@@ -287,10 +312,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7ba934ef462b660d",
+  "active": "04589c1cb180e3d3",
   "lastOpenFiles": [
+    "04 Ideas/Untitled.md",
     "04 Ideas/Algebra de Conjuntos.md",
-    "04 Ideas/Teoría de Conjuntos.md",
+    "03 Areas/Teoría de Conjuntos.md",
+    "04 Ideas/Notación de Conjuntos.md",
+    "04 Ideas/Matrices.md",
     "00 Plantillas/Area.md",
     "00 Plantillas/Knowledge Note.md",
     "04 Ideas/Estadística.md",
@@ -313,9 +341,6 @@
     "03 Areas/Python.md",
     "04 Ideas/Estrategias de dieta para cambiar la composición corporal.md",
     "04 Ideas/Free Software Fundation y el Open Source Alternative.md",
-    "04 Ideas/Software de código abierto y Licenciamiento.md",
-    "04 Ideas/Aplicaciones de Servidor.md",
-    "04 Ideas/Plataformas de Hardware.md",
     "Recursos/Libros/Calculo de varias variables Tr - Desconocido 202.pdf",
     "Recursos/Libros/Bases de datos - Catherine M. Ricardo.pdf",
     "Research/logseq/srs-of-matrix.edn",

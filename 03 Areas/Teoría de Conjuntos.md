@@ -3,6 +3,34 @@ Materia:: [[Probabilidad y estadística]], [[Matemáticas discretas]]
 > [!concepto]
 > Es una rama de las matemáticas que estudia las colecciones de objetos, llamados conjuntos, y sus relaciones entre si. Proporcionando un marco formal para definir, manipular y analizar estructuras matemáticas fundamentales. 
 
+> [!etimologia]
+> 
+
+>[!temas]+ 
+>```dataview
+>list 
+>where contains(materia, [[Teoría de Conjuntos]])
+>```
+
+>[!diario]- Notas diarias
+>```list
+>from "Notas diarias"
+>where contains(relacionado, [[Teoría de Conjuntos]])
+>```
+
+>[!done]+ Tareas
+>```tasks
+>not done 
+>description includes [[Teoría de Conjuntos]]
+
+
+- Conjuntos: Es cualquier colección de objetos bien definida
+	- Con "Bien definida" se refiere a que es fácil decidir si un objeto pertenece a la colección o no.
+	- Casi todos los objetos matemáticos son conjuntos, pese a cualquier propiedad adicional que puedan poseer
+	- Son completamente conocidos cuando todos sus miembros son conocidos
+	- Se dice que dos conjuntos $A$ y $B$ son iguales si tienen los mismos elementos y se denota como $A=B$ 
+- Elementos o miembros del conjunto: Son los objetos que integran un conjunto. 
+
 # Espacio Muestral  
 Espacio muestral (Conjunto Universal): Es el conjunto de todos los posibles resultados de un experimento aleatorio
 - Es denotado como $S$ que a la hora de expresarse de forma explícita se haría como sigue: 
