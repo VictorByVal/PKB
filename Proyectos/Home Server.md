@@ -5,10 +5,10 @@ tags:
 ---
 Relacionado:: [[Study System]]
 
-```ad-abstract
-title: Resumen 
-La idea consiste en crear un servidor casero de la manera más barata, sencilla, pero a la vez duradera y escalable posible, para ello la opción que se me ocurre es comprar una Raspberry pi, quizá junto con alguna SD y un case, para conectarla a la red Wifi directamente por cable Ethernet. 
-```
+> [!abstract]
+> La idea consiste en crear un servidor casero de la manera más barata, sencilla, pero a la vez duradera y escalable posible, para ello la opción que se me ocurre es comprar una Raspberry pi, quizá junto con alguna SD y un case, para conectarla a la red Wifi directamente por cable Ethernet. 
+
+
 
 # Motivos 
 - Alojar música debido a que me encuentro en el dilema, de querer disponer de mi música sin tener que estarla stremeando o accediendo a ella desde servidores desconocidos. 
