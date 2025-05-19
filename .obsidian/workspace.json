@@ -180,6 +180,20 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "898dddb0a0fd6de9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ],
         "currentTab": 3
@@ -245,9 +259,7 @@
       "workspaces:Manage workspace layouts": false,
       "callout-manager:Insert Callout": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "reference-map:Reference Map": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "9a79bb88d13b2037",
