@@ -4,6 +4,7 @@
   "obsidian-tasks-plugin",
   "highlightr-plugin",
   "dataview",
+  "templater-obsidian",
   "obsidian-checklist-plugin",
   "obsidian-excalidraw-plugin",
   "obsidian-admonition",
@@ -18,5 +19,6 @@
   "callout-manager",
   "quiz-generator",
   "obsidian-enhancing-export",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-kanban"
 ]
