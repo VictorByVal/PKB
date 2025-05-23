@@ -1,5 +1,6 @@
 ---
-aliases: 
+aliases:
+  - Suficiencia Estadística
 tags:
 ---
 Materia:: [[Estadística Inferencial]]
@@ -31,7 +32,10 @@ Para determinar:
 # Glosario (Conceptos y definiciones)
 
 # Notas Adicionales
-- Los estadísticos suficientes a menudo se pueden usar para desarrollar estimadores que tienen varianza mínima entre todos los estimadores insesgados. 
+- Los estadísticos suficientes a menudo se pueden usar para desarrollar estimadores que tienen varianza mínima entre todos los estimadores insesgados.
+- Lo que se busca es desaparecer el parámetro. 
+	- Una vez que ya no se puede sacar más información respecto al parámetro, lo único que nos importa es la variable independiente. 
+	- Al obtener la suma de la variable independiente tenemos toda la información necesaria del parámetro. 
 # Tasks
 
 # Cuestionario
