@@ -3,7 +3,8 @@ aliases:
 tags:
 ---
 Materia:: [[Bases de Datos]]
-Subtema:: [[MySQL]]
+Parent::[[MySQL]]
+Subtema:: 
 Relacionado:: 
 
 # CRUD 
@@ -32,3 +33,21 @@ Se emplea el comando `enum` para alternar entre distintas etiquetas y poner una 
 ```
 
 Se emplea `distinct`  para enumerar solo los datos que sean distintos unos de otros. 
+
+
+# `CONSTRAINT`
+Se emplea para definir restricciones en las columnas o tablas, con el fin de asegurar la integridad de los datos. Estas restricciones controlan los valores que se pueden insertar o actualizar en una tabla. 
+
+## Uso general
+
+Se utiliza al definir una tabla (en `CREATE TABLE`) o al modificarla (`ALTER TABLE`) para nombrar explícitamente una restricción.
+
+### Tipos de restricciones que se pueden usar con `CONSTRAINT`:
+
+1. `PRIMARY KEY`: Garantiza que los valores en una columna (o conjunto de columnas) sean únicos y no nulos.
+2. `FOREIGN KEY`: Establece una relación entre dos tablas.
+3. `UNIQUE`: Asegura que todos los valores en una columna sean únicos.
+4. `CHECK`: Limita los valores que se pueden insertar en una columna según una condición.
+5. `NOT NULL`: Impide que se inserten valores nulos (aunque este a menudo se usa sin `CONSTRAINT`).
+6. `DEFAULT`: Define un valor por defecto para una columna (también se puede nombrar con `CONSTRAINT`).
+
