@@ -3,7 +3,7 @@
 >```dataview 
 >List 
 >From "04 Ideas" 
->where contains(Tema, [[Entrenamiento Personal]])
+>where contains(Parent, [[Entrenamiento Personal]])
 >```
 
 >[!diario]- Notas diarias
